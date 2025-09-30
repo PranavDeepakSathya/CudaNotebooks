@@ -1,0 +1,82 @@
+CUDA NVCC4JUPYTER COMMANDS REFERENCE
+This file contains the necessary commands to set up and run various analysis modes
+(Timed, Sanitized, PTX/SASS) for CUDA code in a Jupyter notebook using nvcc4jupyter.
+--- SETUP CELL (Run First) ---
+Load the extension and set the default compiler arguments.
+Load the extension. If this fails, run !pip install nvcc4jupyter in a preceding cell.
+
+%load_ext nvcc4jupyter
+Set the default compiler architecture. This automatically adds '-arch=sm_100a'
+to all subsequent %%cuda commands.
+NOTE: Replace 'sm_100a' with a valid compute capability for your GPU if needed (e.g., 'sm_86').
+
+from nvcc4jupyter import set_defaults
+set_defaults(compiler_args=['-arch=sm_100a', '-Xptxas=-v'])
+----------------------------------------------------------------------
+--- MODE 1: Optimized and Timed Run ---
+The -t flag measures the execution time using the IPython timeit magic.
+%%cuda -t
+#include <stdio.h>
+#include <cuda_runtime.h>
+global void vector_add(const float *A, const float *B, float *C, int N) {
+int i = blockIdx.x * blockDim.x + threadIdx.x;
+if (i < N) {
+C[i] = A[i] + B[i];
+}
+}
+int main() {
+// Minimal setup to ensure the kernel runs for timing
+int N = 1024;
+vector_add<<<1, 256>>>(nullptr, nullptr, nullptr, N);
+cudaDeviceSynchronize();
+return 0;
+}
+----------------------------------------------------------------------
+--- MODE 2: Compute Sanitizer (Memcheck, Racecheck, Synccheck) ---
+Sanitizers require compilation with debug symbols (-g). This is a two-cell process.
+CELL 2A: Compile with Debug Symbols (-g)
+%%cuda --compiler-args "-g"
+#include <stdio.h>
+#include <cuda_runtime.h>
+global void bad_access_kernel() {
+// Deliberate out-of-bounds access for memcheck
+int *ptr = nullptr;
+// This will crash/fail unless running under compute-sanitizer
+if (blockIdx.x == 0 && threadIdx.x == 0) {
+// Example bad access
+*ptr = 42;
+}
+}
+int main() {
+bad_access_kernel<<<1, 1>>>();
+cudaDeviceSynchronize();
+return 0;
+}
+CELL 2B: Run with Sanitizer Tools (using bash command !)
+The executable is saved as ./a.out by nvcc4jupyter.
+Run Memcheck (memory errors/leaks)
+!compute-sanitizer --tool memcheck ./a.out
+Run Racecheck (shared memory data races)
+!compute-sanitizer --tool racecheck ./a.out
+Run Synccheck (thread synchronization issues)
+!compute-sanitizer --tool synccheck ./a.out
+----------------------------------------------------------------------
+--- MODE 3: PTX and SASS Dump ---
+Compile to generate PTX intermediate code and keep the files on disk.
+CELL 3A: Compile for PTX/SASS Dump
+%%cuda --compiler-args "--ptx --keep"
+#include <stdio.h>
+global void ptx_example() {
+int x = threadIdx.x;
+// Simple operation to inspect PTX/SASS
+x = x * x + 5;
+}
+int main() {
+ptx_example<<<1, 1>>>();
+return 0;
+}
+CELL 3B: View PTX and SASS
+View the generated PTX file (a.ptx)
+!cat a.ptx
+View the SASS (assembly) dump
+!cuobjdump --dump-sass ./a.out
