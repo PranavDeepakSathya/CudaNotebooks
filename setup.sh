@@ -65,4 +65,7 @@ if [ $? -ne 0 ]; then
     echo "Warning: Failed to return to the original repository directory."
 fi
 
+git config --global user.email sathya.pranav.deepak@gmail.com
+git config --global user.name PranavDeepakSathya
+
 echo "Setup finished. Run 'source ../.venv/bin/activate' (Linux/macOS) or '../.venv/Scripts/activate' (Windows) and then launch Jupyter."
