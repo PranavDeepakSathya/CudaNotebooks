@@ -11,7 +11,7 @@ to all subsequent %%cuda commands.
 NOTE: Replace 'sm_100a' with a valid compute capability for your GPU if needed (e.g., 'sm_86').
 
 from nvcc4jupyter import set_defaults
-set_defaults(compiler_args=['-arch=sm_100a', '-Xptxas=-v'])
+set_defaults(compiler_args='-arch=sm_100a -Xptxas=-v')
 ----------------------------------------------------------------------
 --- MODE 1: Optimized and Timed Run ---
 The -t flag measures the execution time using the IPython timeit magic.
