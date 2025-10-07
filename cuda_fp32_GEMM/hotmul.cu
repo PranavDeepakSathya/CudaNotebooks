@@ -16,8 +16,8 @@ constexpr int BK = (4*BS*BS)/BM;
 __global__ void matmul (float*A, float*B, float*C)
 {
 
-   __shared__ float Asub[BM*BK]; 
-   __shared__ float Bsub[BK*BN];
+   __shared__ float Asub[BM*(BK+1)]; 
+   __shared__ float Bsub[BK*(BN+1)];
    uint cb_row = blockIdx.x; 
    uint cb_col = blockIdx.y; 
    uint t = threadIdx.x; 
