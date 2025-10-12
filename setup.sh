@@ -45,6 +45,7 @@ fi
 echo "Installing packages: torch, nvcc4jupyter, numpy..."
 
 pip install torch nvcc4jupyter numpy
+pip install jupyter_client ipykernel
 
 if [ $? -ne 0 ]; then
     echo "Error: Failed to install one or more packages. Please check the pip output above."
