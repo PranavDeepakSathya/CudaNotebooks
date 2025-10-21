@@ -1,0 +1,2002 @@
+Launching kernel with N_blocks=1 and N_threads=1...
+0.010000  0.020000  0.030000  0.040000  0.050000  0.060000  0.070000  0.080000  0.090000  0.100000  value of r1 at iteration 0: 0.000000 
+Latency at iteration 0: 8 cycles 
+value of r1 at iteration 1: 0.020000 
+Latency at iteration 1: 0 cycles 
+value of r1 at iteration 2: 0.000000 
+Latency at iteration 2: 8 cycles 
+value of r1 at iteration 3: 0.040000 
+Latency at iteration 3: 0 cycles 
+value of r1 at iteration 4: 0.000000 
+Latency at iteration 4: 10 cycles 
+value of r1 at iteration 5: 0.060000 
+Latency at iteration 5: 0 cycles 
+value of r1 at iteration 6: 0.000000 
+Latency at iteration 6: 10 cycles 
+value of r1 at iteration 7: 0.080000 
+Latency at iteration 7: 0 cycles 
+value of r1 at iteration 8: 0.000000 
+Latency at iteration 8: 8 cycles 
+value of r1 at iteration 9: 0.100000 
+Latency at iteration 9: 0 cycles 
+value of r1 at iteration 10: 0.000000 
+Latency at iteration 10: 8 cycles 
+value of r1 at iteration 11: 0.120000 
+Latency at iteration 11: 0 cycles 
+value of r1 at iteration 12: 0.000000 
+Latency at iteration 12: 10 cycles 
+value of r1 at iteration 13: 0.140000 
+Latency at iteration 13: 0 cycles 
+value of r1 at iteration 14: 0.000000 
+Latency at iteration 14: 10 cycles 
+value of r1 at iteration 15: 0.160000 
+Latency at iteration 15: 0 cycles 
+value of r1 at iteration 16: 0.000000 
+Latency at iteration 16: 8 cycles 
+value of r1 at iteration 17: 0.180000 
+Latency at iteration 17: 0 cycles 
+value of r1 at iteration 18: 0.000000 
+Latency at iteration 18: 8 cycles 
+value of r1 at iteration 19: 0.200000 
+Latency at iteration 19: 0 cycles 
+value of r1 at iteration 20: 0.000000 
+Latency at iteration 20: 10 cycles 
+value of r1 at iteration 21: 0.220000 
+Latency at iteration 21: 0 cycles 
+value of r1 at iteration 22: 0.000000 
+Latency at iteration 22: 10 cycles 
+value of r1 at iteration 23: 0.240000 
+Latency at iteration 23: 0 cycles 
+value of r1 at iteration 24: 0.000000 
+Latency at iteration 24: 8 cycles 
+value of r1 at iteration 25: 0.260000 
+Latency at iteration 25: 0 cycles 
+value of r1 at iteration 26: 0.000000 
+Latency at iteration 26: 8 cycles 
+value of r1 at iteration 27: 0.280000 
+Latency at iteration 27: 0 cycles 
+value of r1 at iteration 28: 0.000000 
+Latency at iteration 28: 10 cycles 
+value of r1 at iteration 29: 0.300000 
+Latency at iteration 29: 0 cycles 
+value of r1 at iteration 30: 0.000000 
+Latency at iteration 30: 30 cycles 
+value of r1 at iteration 31: 0.320000 
+Latency at iteration 31: 0 cycles 
+value of r1 at iteration 32: 0.000000 
+Latency at iteration 32: 8 cycles 
+value of r1 at iteration 33: 0.340000 
+Latency at iteration 33: 0 cycles 
+value of r1 at iteration 34: 0.000000 
+Latency at iteration 34: 8 cycles 
+value of r1 at iteration 35: 0.360000 
+Latency at iteration 35: 0 cycles 
+value of r1 at iteration 36: 0.000000 
+Latency at iteration 36: 7 cycles 
+value of r1 at iteration 37: 0.380000 
+Latency at iteration 37: 0 cycles 
+value of r1 at iteration 38: 0.000000 
+Latency at iteration 38: 10 cycles 
+value of r1 at iteration 39: 0.400000 
+Latency at iteration 39: 0 cycles 
+value of r1 at iteration 40: 0.000000 
+Latency at iteration 40: 8 cycles 
+value of r1 at iteration 41: 0.420000 
+Latency at iteration 41: 0 cycles 
+value of r1 at iteration 42: 0.000000 
+Latency at iteration 42: 8 cycles 
+value of r1 at iteration 43: 0.440000 
+Latency at iteration 43: 0 cycles 
+value of r1 at iteration 44: 0.000000 
+Latency at iteration 44: 10 cycles 
+value of r1 at iteration 45: 0.460000 
+Latency at iteration 45: 0 cycles 
+value of r1 at iteration 46: 0.000000 
+Latency at iteration 46: 10 cycles 
+value of r1 at iteration 47: 0.480000 
+Latency at iteration 47: 0 cycles 
+value of r1 at iteration 48: 0.000000 
+Latency at iteration 48: 8 cycles 
+value of r1 at iteration 49: 0.500000 
+Latency at iteration 49: 0 cycles 
+value of r1 at iteration 50: 0.000000 
+Latency at iteration 50: 8 cycles 
+value of r1 at iteration 51: 0.520000 
+Latency at iteration 51: 0 cycles 
+value of r1 at iteration 52: 0.000000 
+Latency at iteration 52: 10 cycles 
+value of r1 at iteration 53: 0.540000 
+Latency at iteration 53: 0 cycles 
+value of r1 at iteration 54: 0.000000 
+Latency at iteration 54: 10 cycles 
+value of r1 at iteration 55: 0.560000 
+Latency at iteration 55: 0 cycles 
+value of r1 at iteration 56: 0.000000 
+Latency at iteration 56: 8 cycles 
+value of r1 at iteration 57: 0.580000 
+Latency at iteration 57: 0 cycles 
+value of r1 at iteration 58: 0.000000 
+Latency at iteration 58: 8 cycles 
+value of r1 at iteration 59: 0.600000 
+Latency at iteration 59: 0 cycles 
+value of r1 at iteration 60: 0.000000 
+Latency at iteration 60: 10 cycles 
+value of r1 at iteration 61: 0.620000 
+Latency at iteration 61: 0 cycles 
+value of r1 at iteration 62: 0.000000 
+Latency at iteration 62: 10 cycles 
+value of r1 at iteration 63: 0.640000 
+Latency at iteration 63: 0 cycles 
+value of r1 at iteration 64: 0.000000 
+Latency at iteration 64: 8 cycles 
+value of r1 at iteration 65: 0.660000 
+Latency at iteration 65: 0 cycles 
+value of r1 at iteration 66: 0.000000 
+Latency at iteration 66: 8 cycles 
+value of r1 at iteration 67: 0.680000 
+Latency at iteration 67: 0 cycles 
+value of r1 at iteration 68: 0.000000 
+Latency at iteration 68: 10 cycles 
+value of r1 at iteration 69: 0.700000 
+Latency at iteration 69: 0 cycles 
+value of r1 at iteration 70: 0.000000 
+Latency at iteration 70: 30 cycles 
+value of r1 at iteration 71: 0.720000 
+Latency at iteration 71: 0 cycles 
+value of r1 at iteration 72: 0.000000 
+Latency at iteration 72: 8 cycles 
+value of r1 at iteration 73: 0.740000 
+Latency at iteration 73: 0 cycles 
+value of r1 at iteration 74: 0.000000 
+Latency at iteration 74: 8 cycles 
+value of r1 at iteration 75: 0.760000 
+Latency at iteration 75: 0 cycles 
+value of r1 at iteration 76: 0.000000 
+Latency at iteration 76: 7 cycles 
+value of r1 at iteration 77: 0.780000 
+Latency at iteration 77: 0 cycles 
+value of r1 at iteration 78: 0.000000 
+Latency at iteration 78: 10 cycles 
+value of r1 at iteration 79: 0.800000 
+Latency at iteration 79: 0 cycles 
+value of r1 at iteration 80: 0.000000 
+Latency at iteration 80: 8 cycles 
+value of r1 at iteration 81: 0.820000 
+Latency at iteration 81: 0 cycles 
+value of r1 at iteration 82: 0.000000 
+Latency at iteration 82: 8 cycles 
+value of r1 at iteration 83: 0.840000 
+Latency at iteration 83: 0 cycles 
+value of r1 at iteration 84: 0.000000 
+Latency at iteration 84: 10 cycles 
+value of r1 at iteration 85: 0.860000 
+Latency at iteration 85: 0 cycles 
+value of r1 at iteration 86: 0.000000 
+Latency at iteration 86: 10 cycles 
+value of r1 at iteration 87: 0.880000 
+Latency at iteration 87: 0 cycles 
+value of r1 at iteration 88: 0.000000 
+Latency at iteration 88: 8 cycles 
+value of r1 at iteration 89: 0.900000 
+Latency at iteration 89: 0 cycles 
+value of r1 at iteration 90: 0.000000 
+Latency at iteration 90: 8 cycles 
+value of r1 at iteration 91: 0.920000 
+Latency at iteration 91: 0 cycles 
+value of r1 at iteration 92: 0.000000 
+Latency at iteration 92: 10 cycles 
+value of r1 at iteration 93: 0.940000 
+Latency at iteration 93: 0 cycles 
+value of r1 at iteration 94: 0.000000 
+Latency at iteration 94: 10 cycles 
+value of r1 at iteration 95: 0.960000 
+Latency at iteration 95: 0 cycles 
+value of r1 at iteration 96: 0.000000 
+Latency at iteration 96: 8 cycles 
+value of r1 at iteration 97: 0.980000 
+Latency at iteration 97: 0 cycles 
+value of r1 at iteration 98: 0.000000 
+Latency at iteration 98: 8 cycles 
+value of r1 at iteration 99: 1.000000 
+Latency at iteration 99: 0 cycles 
+value of r1 at iteration 100: 0.000000 
+Latency at iteration 100: 10 cycles 
+value of r1 at iteration 101: 1.020000 
+Latency at iteration 101: 0 cycles 
+value of r1 at iteration 102: 0.000000 
+Latency at iteration 102: 10 cycles 
+value of r1 at iteration 103: 1.040000 
+Latency at iteration 103: 0 cycles 
+value of r1 at iteration 104: 0.000000 
+Latency at iteration 104: 8 cycles 
+value of r1 at iteration 105: 1.060000 
+Latency at iteration 105: 0 cycles 
+value of r1 at iteration 106: 0.000000 
+Latency at iteration 106: 8 cycles 
+value of r1 at iteration 107: 1.080000 
+Latency at iteration 107: 0 cycles 
+value of r1 at iteration 108: 0.000000 
+Latency at iteration 108: 10 cycles 
+value of r1 at iteration 109: 1.100000 
+Latency at iteration 109: 0 cycles 
+value of r1 at iteration 110: 0.000000 
+Latency at iteration 110: 30 cycles 
+value of r1 at iteration 111: 1.120000 
+Latency at iteration 111: 0 cycles 
+value of r1 at iteration 112: 0.000000 
+Latency at iteration 112: 8 cycles 
+value of r1 at iteration 113: 1.140000 
+Latency at iteration 113: 0 cycles 
+value of r1 at iteration 114: 0.000000 
+Latency at iteration 114: 8 cycles 
+value of r1 at iteration 115: 1.160000 
+Latency at iteration 115: 0 cycles 
+value of r1 at iteration 116: 0.000000 
+Latency at iteration 116: 7 cycles 
+value of r1 at iteration 117: 1.180000 
+Latency at iteration 117: 0 cycles 
+value of r1 at iteration 118: 0.000000 
+Latency at iteration 118: 10 cycles 
+value of r1 at iteration 119: 1.200000 
+Latency at iteration 119: 0 cycles 
+value of r1 at iteration 120: 0.000000 
+Latency at iteration 120: 8 cycles 
+value of r1 at iteration 121: 1.220000 
+Latency at iteration 121: 0 cycles 
+value of r1 at iteration 122: 0.000000 
+Latency at iteration 122: 8 cycles 
+value of r1 at iteration 123: 1.240000 
+Latency at iteration 123: 0 cycles 
+value of r1 at iteration 124: 0.000000 
+Latency at iteration 124: 10 cycles 
+value of r1 at iteration 125: 1.260000 
+Latency at iteration 125: 0 cycles 
+value of r1 at iteration 126: 0.000000 
+Latency at iteration 126: 10 cycles 
+value of r1 at iteration 127: 1.280000 
+Latency at iteration 127: 0 cycles 
+value of r1 at iteration 128: 0.000000 
+Latency at iteration 128: 8 cycles 
+value of r1 at iteration 129: 1.300000 
+Latency at iteration 129: 0 cycles 
+value of r1 at iteration 130: 0.000000 
+Latency at iteration 130: 8 cycles 
+value of r1 at iteration 131: 1.320000 
+Latency at iteration 131: 0 cycles 
+value of r1 at iteration 132: 0.000000 
+Latency at iteration 132: 10 cycles 
+value of r1 at iteration 133: 1.340000 
+Latency at iteration 133: 0 cycles 
+value of r1 at iteration 134: 0.000000 
+Latency at iteration 134: 10 cycles 
+value of r1 at iteration 135: 1.360000 
+Latency at iteration 135: 0 cycles 
+value of r1 at iteration 136: 0.000000 
+Latency at iteration 136: 8 cycles 
+value of r1 at iteration 137: 1.380000 
+Latency at iteration 137: 0 cycles 
+value of r1 at iteration 138: 0.000000 
+Latency at iteration 138: 8 cycles 
+value of r1 at iteration 139: 1.400000 
+Latency at iteration 139: 0 cycles 
+value of r1 at iteration 140: 0.000000 
+Latency at iteration 140: 10 cycles 
+value of r1 at iteration 141: 1.420000 
+Latency at iteration 141: 0 cycles 
+value of r1 at iteration 142: 0.000000 
+Latency at iteration 142: 10 cycles 
+value of r1 at iteration 143: 1.440000 
+Latency at iteration 143: 0 cycles 
+value of r1 at iteration 144: 0.000000 
+Latency at iteration 144: 8 cycles 
+value of r1 at iteration 145: 1.460000 
+Latency at iteration 145: 0 cycles 
+value of r1 at iteration 146: 0.000000 
+Latency at iteration 146: 8 cycles 
+value of r1 at iteration 147: 1.480000 
+Latency at iteration 147: 0 cycles 
+value of r1 at iteration 148: 0.000000 
+Latency at iteration 148: 10 cycles 
+value of r1 at iteration 149: 1.500000 
+Latency at iteration 149: 0 cycles 
+value of r1 at iteration 150: 0.000000 
+Latency at iteration 150: 30 cycles 
+value of r1 at iteration 151: 1.520000 
+Latency at iteration 151: 0 cycles 
+value of r1 at iteration 152: 0.000000 
+Latency at iteration 152: 8 cycles 
+value of r1 at iteration 153: 1.540000 
+Latency at iteration 153: 0 cycles 
+value of r1 at iteration 154: 0.000000 
+Latency at iteration 154: 8 cycles 
+value of r1 at iteration 155: 1.560000 
+Latency at iteration 155: 0 cycles 
+value of r1 at iteration 156: 0.000000 
+Latency at iteration 156: 7 cycles 
+value of r1 at iteration 157: 1.580000 
+Latency at iteration 157: 0 cycles 
+value of r1 at iteration 158: 0.000000 
+Latency at iteration 158: 10 cycles 
+value of r1 at iteration 159: 1.600000 
+Latency at iteration 159: 0 cycles 
+value of r1 at iteration 160: 0.000000 
+Latency at iteration 160: 8 cycles 
+value of r1 at iteration 161: 1.620000 
+Latency at iteration 161: 0 cycles 
+value of r1 at iteration 162: 0.000000 
+Latency at iteration 162: 8 cycles 
+value of r1 at iteration 163: 1.640000 
+Latency at iteration 163: 0 cycles 
+value of r1 at iteration 164: 0.000000 
+Latency at iteration 164: 10 cycles 
+value of r1 at iteration 165: 1.660000 
+Latency at iteration 165: 0 cycles 
+value of r1 at iteration 166: 0.000000 
+Latency at iteration 166: 10 cycles 
+value of r1 at iteration 167: 1.680000 
+Latency at iteration 167: 0 cycles 
+value of r1 at iteration 168: 0.000000 
+Latency at iteration 168: 8 cycles 
+value of r1 at iteration 169: 1.700000 
+Latency at iteration 169: 0 cycles 
+value of r1 at iteration 170: 0.000000 
+Latency at iteration 170: 8 cycles 
+value of r1 at iteration 171: 1.720000 
+Latency at iteration 171: 0 cycles 
+value of r1 at iteration 172: 0.000000 
+Latency at iteration 172: 10 cycles 
+value of r1 at iteration 173: 1.740000 
+Latency at iteration 173: 0 cycles 
+value of r1 at iteration 174: 0.000000 
+Latency at iteration 174: 10 cycles 
+value of r1 at iteration 175: 1.760000 
+Latency at iteration 175: 0 cycles 
+value of r1 at iteration 176: 0.000000 
+Latency at iteration 176: 8 cycles 
+value of r1 at iteration 177: 1.780000 
+Latency at iteration 177: 0 cycles 
+value of r1 at iteration 178: 0.000000 
+Latency at iteration 178: 8 cycles 
+value of r1 at iteration 179: 1.800000 
+Latency at iteration 179: 0 cycles 
+value of r1 at iteration 180: 0.000000 
+Latency at iteration 180: 10 cycles 
+value of r1 at iteration 181: 1.820000 
+Latency at iteration 181: 0 cycles 
+value of r1 at iteration 182: 0.000000 
+Latency at iteration 182: 10 cycles 
+value of r1 at iteration 183: 1.840000 
+Latency at iteration 183: 0 cycles 
+value of r1 at iteration 184: 0.000000 
+Latency at iteration 184: 8 cycles 
+value of r1 at iteration 185: 1.860000 
+Latency at iteration 185: 0 cycles 
+value of r1 at iteration 186: 0.000000 
+Latency at iteration 186: 8 cycles 
+value of r1 at iteration 187: 1.880000 
+Latency at iteration 187: 0 cycles 
+value of r1 at iteration 188: 0.000000 
+Latency at iteration 188: 10 cycles 
+value of r1 at iteration 189: 1.900000 
+Latency at iteration 189: 0 cycles 
+value of r1 at iteration 190: 0.000000 
+Latency at iteration 190: 30 cycles 
+value of r1 at iteration 191: 1.920000 
+Latency at iteration 191: 0 cycles 
+value of r1 at iteration 192: 0.000000 
+Latency at iteration 192: 8 cycles 
+value of r1 at iteration 193: 1.940000 
+Latency at iteration 193: 0 cycles 
+value of r1 at iteration 194: 0.000000 
+Latency at iteration 194: 8 cycles 
+value of r1 at iteration 195: 1.960000 
+Latency at iteration 195: 0 cycles 
+value of r1 at iteration 196: 0.000000 
+Latency at iteration 196: 7 cycles 
+value of r1 at iteration 197: 1.980000 
+Latency at iteration 197: 0 cycles 
+value of r1 at iteration 198: 0.000000 
+Latency at iteration 198: 10 cycles 
+value of r1 at iteration 199: 2.000000 
+Latency at iteration 199: 0 cycles 
+value of r1 at iteration 200: 0.000000 
+Latency at iteration 200: 8 cycles 
+value of r1 at iteration 201: 2.020000 
+Latency at iteration 201: 0 cycles 
+value of r1 at iteration 202: 0.000000 
+Latency at iteration 202: 8 cycles 
+value of r1 at iteration 203: 2.040000 
+Latency at iteration 203: 0 cycles 
+value of r1 at iteration 204: 0.000000 
+Latency at iteration 204: 10 cycles 
+value of r1 at iteration 205: 2.060000 
+Latency at iteration 205: 0 cycles 
+value of r1 at iteration 206: 0.000000 
+Latency at iteration 206: 10 cycles 
+value of r1 at iteration 207: 2.080000 
+Latency at iteration 207: 0 cycles 
+value of r1 at iteration 208: 0.000000 
+Latency at iteration 208: 8 cycles 
+value of r1 at iteration 209: 2.100000 
+Latency at iteration 209: 0 cycles 
+value of r1 at iteration 210: 0.000000 
+Latency at iteration 210: 8 cycles 
+value of r1 at iteration 211: 2.120000 
+Latency at iteration 211: 0 cycles 
+value of r1 at iteration 212: 0.000000 
+Latency at iteration 212: 10 cycles 
+value of r1 at iteration 213: 2.140000 
+Latency at iteration 213: 0 cycles 
+value of r1 at iteration 214: 0.000000 
+Latency at iteration 214: 10 cycles 
+value of r1 at iteration 215: 2.160000 
+Latency at iteration 215: 0 cycles 
+value of r1 at iteration 216: 0.000000 
+Latency at iteration 216: 8 cycles 
+value of r1 at iteration 217: 2.180000 
+Latency at iteration 217: 0 cycles 
+value of r1 at iteration 218: 0.000000 
+Latency at iteration 218: 8 cycles 
+value of r1 at iteration 219: 2.200000 
+Latency at iteration 219: 0 cycles 
+value of r1 at iteration 220: 0.000000 
+Latency at iteration 220: 10 cycles 
+value of r1 at iteration 221: 2.220000 
+Latency at iteration 221: 0 cycles 
+value of r1 at iteration 222: 0.000000 
+Latency at iteration 222: 10 cycles 
+value of r1 at iteration 223: 2.240000 
+Latency at iteration 223: 0 cycles 
+value of r1 at iteration 224: 0.000000 
+Latency at iteration 224: 8 cycles 
+value of r1 at iteration 225: 2.260000 
+Latency at iteration 225: 0 cycles 
+value of r1 at iteration 226: 0.000000 
+Latency at iteration 226: 8 cycles 
+value of r1 at iteration 227: 2.280000 
+Latency at iteration 227: 0 cycles 
+value of r1 at iteration 228: 0.000000 
+Latency at iteration 228: 10 cycles 
+value of r1 at iteration 229: 2.300000 
+Latency at iteration 229: 0 cycles 
+value of r1 at iteration 230: 0.000000 
+Latency at iteration 230: 30 cycles 
+value of r1 at iteration 231: 2.320000 
+Latency at iteration 231: 0 cycles 
+value of r1 at iteration 232: 0.000000 
+Latency at iteration 232: 8 cycles 
+value of r1 at iteration 233: 2.340000 
+Latency at iteration 233: 0 cycles 
+value of r1 at iteration 234: 0.000000 
+Latency at iteration 234: 8 cycles 
+value of r1 at iteration 235: 2.360000 
+Latency at iteration 235: 0 cycles 
+value of r1 at iteration 236: 0.000000 
+Latency at iteration 236: 7 cycles 
+value of r1 at iteration 237: 2.380000 
+Latency at iteration 237: 0 cycles 
+value of r1 at iteration 238: 0.000000 
+Latency at iteration 238: 10 cycles 
+value of r1 at iteration 239: 2.400000 
+Latency at iteration 239: 0 cycles 
+value of r1 at iteration 240: 0.000000 
+Latency at iteration 240: 8 cycles 
+value of r1 at iteration 241: 2.420000 
+Latency at iteration 241: 0 cycles 
+value of r1 at iteration 242: 0.000000 
+Latency at iteration 242: 8 cycles 
+value of r1 at iteration 243: 2.440000 
+Latency at iteration 243: 0 cycles 
+value of r1 at iteration 244: 0.000000 
+Latency at iteration 244: 10 cycles 
+value of r1 at iteration 245: 2.460000 
+Latency at iteration 245: 0 cycles 
+value of r1 at iteration 246: 0.000000 
+Latency at iteration 246: 10 cycles 
+value of r1 at iteration 247: 2.480000 
+Latency at iteration 247: 0 cycles 
+value of r1 at iteration 248: 0.000000 
+Latency at iteration 248: 8 cycles 
+value of r1 at iteration 249: 2.500000 
+Latency at iteration 249: 0 cycles 
+value of r1 at iteration 250: 0.000000 
+Latency at iteration 250: 8 cycles 
+value of r1 at iteration 251: 2.520000 
+Latency at iteration 251: 0 cycles 
+value of r1 at iteration 252: 0.000000 
+Latency at iteration 252: 10 cycles 
+value of r1 at iteration 253: 2.540000 
+Latency at iteration 253: 0 cycles 
+value of r1 at iteration 254: 0.000000 
+Latency at iteration 254: 10 cycles 
+value of r1 at iteration 255: 2.560000 
+Latency at iteration 255: 0 cycles 
+value of r1 at iteration 256: 0.000000 
+Latency at iteration 256: 8 cycles 
+value of r1 at iteration 257: 2.580000 
+Latency at iteration 257: 0 cycles 
+value of r1 at iteration 258: 0.000000 
+Latency at iteration 258: 8 cycles 
+value of r1 at iteration 259: 2.600000 
+Latency at iteration 259: 0 cycles 
+value of r1 at iteration 260: 0.000000 
+Latency at iteration 260: 10 cycles 
+value of r1 at iteration 261: 2.620000 
+Latency at iteration 261: 0 cycles 
+value of r1 at iteration 262: 0.000000 
+Latency at iteration 262: 10 cycles 
+value of r1 at iteration 263: 2.640000 
+Latency at iteration 263: 0 cycles 
+value of r1 at iteration 264: 0.000000 
+Latency at iteration 264: 8 cycles 
+value of r1 at iteration 265: 2.660000 
+Latency at iteration 265: 0 cycles 
+value of r1 at iteration 266: 0.000000 
+Latency at iteration 266: 8 cycles 
+value of r1 at iteration 267: 2.680000 
+Latency at iteration 267: 0 cycles 
+value of r1 at iteration 268: 0.000000 
+Latency at iteration 268: 10 cycles 
+value of r1 at iteration 269: 2.700000 
+Latency at iteration 269: 0 cycles 
+value of r1 at iteration 270: 0.000000 
+Latency at iteration 270: 30 cycles 
+value of r1 at iteration 271: 2.720000 
+Latency at iteration 271: 0 cycles 
+value of r1 at iteration 272: 0.000000 
+Latency at iteration 272: 8 cycles 
+value of r1 at iteration 273: 2.740000 
+Latency at iteration 273: 0 cycles 
+value of r1 at iteration 274: 0.000000 
+Latency at iteration 274: 8 cycles 
+value of r1 at iteration 275: 2.760000 
+Latency at iteration 275: 0 cycles 
+value of r1 at iteration 276: 0.000000 
+Latency at iteration 276: 7 cycles 
+value of r1 at iteration 277: 2.780000 
+Latency at iteration 277: 0 cycles 
+value of r1 at iteration 278: 0.000000 
+Latency at iteration 278: 10 cycles 
+value of r1 at iteration 279: 2.800000 
+Latency at iteration 279: 0 cycles 
+value of r1 at iteration 280: 0.000000 
+Latency at iteration 280: 8 cycles 
+value of r1 at iteration 281: 2.820000 
+Latency at iteration 281: 0 cycles 
+value of r1 at iteration 282: 0.000000 
+Latency at iteration 282: 8 cycles 
+value of r1 at iteration 283: 2.840000 
+Latency at iteration 283: 0 cycles 
+value of r1 at iteration 284: 0.000000 
+Latency at iteration 284: 10 cycles 
+value of r1 at iteration 285: 2.860000 
+Latency at iteration 285: 0 cycles 
+value of r1 at iteration 286: 0.000000 
+Latency at iteration 286: 10 cycles 
+value of r1 at iteration 287: 2.880000 
+Latency at iteration 287: 0 cycles 
+value of r1 at iteration 288: 0.000000 
+Latency at iteration 288: 8 cycles 
+value of r1 at iteration 289: 2.900000 
+Latency at iteration 289: 0 cycles 
+value of r1 at iteration 290: 0.000000 
+Latency at iteration 290: 8 cycles 
+value of r1 at iteration 291: 2.920000 
+Latency at iteration 291: 0 cycles 
+value of r1 at iteration 292: 0.000000 
+Latency at iteration 292: 10 cycles 
+value of r1 at iteration 293: 2.940000 
+Latency at iteration 293: 0 cycles 
+value of r1 at iteration 294: 0.000000 
+Latency at iteration 294: 10 cycles 
+value of r1 at iteration 295: 2.960000 
+Latency at iteration 295: 0 cycles 
+value of r1 at iteration 296: 0.000000 
+Latency at iteration 296: 8 cycles 
+value of r1 at iteration 297: 2.980000 
+Latency at iteration 297: 0 cycles 
+value of r1 at iteration 298: 0.000000 
+Latency at iteration 298: 8 cycles 
+value of r1 at iteration 299: 3.000000 
+Latency at iteration 299: 0 cycles 
+value of r1 at iteration 300: 0.000000 
+Latency at iteration 300: 10 cycles 
+value of r1 at iteration 301: 3.020000 
+Latency at iteration 301: 0 cycles 
+value of r1 at iteration 302: 0.000000 
+Latency at iteration 302: 10 cycles 
+value of r1 at iteration 303: 3.040000 
+Latency at iteration 303: 0 cycles 
+value of r1 at iteration 304: 0.000000 
+Latency at iteration 304: 8 cycles 
+value of r1 at iteration 305: 3.060000 
+Latency at iteration 305: 0 cycles 
+value of r1 at iteration 306: 0.000000 
+Latency at iteration 306: 8 cycles 
+value of r1 at iteration 307: 3.080000 
+Latency at iteration 307: 0 cycles 
+value of r1 at iteration 308: 0.000000 
+Latency at iteration 308: 10 cycles 
+value of r1 at iteration 309: 3.100000 
+Latency at iteration 309: 0 cycles 
+value of r1 at iteration 310: 0.000000 
+Latency at iteration 310: 30 cycles 
+value of r1 at iteration 311: 3.120000 
+Latency at iteration 311: 0 cycles 
+value of r1 at iteration 312: 0.000000 
+Latency at iteration 312: 8 cycles 
+value of r1 at iteration 313: 3.140000 
+Latency at iteration 313: 0 cycles 
+value of r1 at iteration 314: 0.000000 
+Latency at iteration 314: 8 cycles 
+value of r1 at iteration 315: 3.160000 
+Latency at iteration 315: 0 cycles 
+value of r1 at iteration 316: 0.000000 
+Latency at iteration 316: 7 cycles 
+value of r1 at iteration 317: 3.180000 
+Latency at iteration 317: 0 cycles 
+value of r1 at iteration 318: 0.000000 
+Latency at iteration 318: 10 cycles 
+value of r1 at iteration 319: 3.200000 
+Latency at iteration 319: 0 cycles 
+value of r1 at iteration 320: 0.000000 
+Latency at iteration 320: 8 cycles 
+value of r1 at iteration 321: 3.220000 
+Latency at iteration 321: 0 cycles 
+value of r1 at iteration 322: 0.000000 
+Latency at iteration 322: 8 cycles 
+value of r1 at iteration 323: 3.240000 
+Latency at iteration 323: 0 cycles 
+value of r1 at iteration 324: 0.000000 
+Latency at iteration 324: 10 cycles 
+value of r1 at iteration 325: 3.260000 
+Latency at iteration 325: 0 cycles 
+value of r1 at iteration 326: 0.000000 
+Latency at iteration 326: 10 cycles 
+value of r1 at iteration 327: 3.280000 
+Latency at iteration 327: 0 cycles 
+value of r1 at iteration 328: 0.000000 
+Latency at iteration 328: 8 cycles 
+value of r1 at iteration 329: 3.300000 
+Latency at iteration 329: 0 cycles 
+value of r1 at iteration 330: 0.000000 
+Latency at iteration 330: 8 cycles 
+value of r1 at iteration 331: 3.320000 
+Latency at iteration 331: 0 cycles 
+value of r1 at iteration 332: 0.000000 
+Latency at iteration 332: 10 cycles 
+value of r1 at iteration 333: 3.340000 
+Latency at iteration 333: 0 cycles 
+value of r1 at iteration 334: 0.000000 
+Latency at iteration 334: 10 cycles 
+value of r1 at iteration 335: 3.360000 
+Latency at iteration 335: 0 cycles 
+value of r1 at iteration 336: 0.000000 
+Latency at iteration 336: 8 cycles 
+value of r1 at iteration 337: 3.380000 
+Latency at iteration 337: 0 cycles 
+value of r1 at iteration 338: 0.000000 
+Latency at iteration 338: 8 cycles 
+value of r1 at iteration 339: 3.400000 
+Latency at iteration 339: 0 cycles 
+value of r1 at iteration 340: 0.000000 
+Latency at iteration 340: 10 cycles 
+value of r1 at iteration 341: 3.420000 
+Latency at iteration 341: 0 cycles 
+value of r1 at iteration 342: 0.000000 
+Latency at iteration 342: 10 cycles 
+value of r1 at iteration 343: 3.440000 
+Latency at iteration 343: 0 cycles 
+value of r1 at iteration 344: 0.000000 
+Latency at iteration 344: 8 cycles 
+value of r1 at iteration 345: 3.460000 
+Latency at iteration 345: 0 cycles 
+value of r1 at iteration 346: 0.000000 
+Latency at iteration 346: 8 cycles 
+value of r1 at iteration 347: 3.480000 
+Latency at iteration 347: 0 cycles 
+value of r1 at iteration 348: 0.000000 
+Latency at iteration 348: 10 cycles 
+value of r1 at iteration 349: 3.500000 
+Latency at iteration 349: 0 cycles 
+value of r1 at iteration 350: 0.000000 
+Latency at iteration 350: 30 cycles 
+value of r1 at iteration 351: 3.520000 
+Latency at iteration 351: 0 cycles 
+value of r1 at iteration 352: 0.000000 
+Latency at iteration 352: 8 cycles 
+value of r1 at iteration 353: 3.540000 
+Latency at iteration 353: 0 cycles 
+value of r1 at iteration 354: 0.000000 
+Latency at iteration 354: 8 cycles 
+value of r1 at iteration 355: 3.560000 
+Latency at iteration 355: 0 cycles 
+value of r1 at iteration 356: 0.000000 
+Latency at iteration 356: 7 cycles 
+value of r1 at iteration 357: 3.580000 
+Latency at iteration 357: 0 cycles 
+value of r1 at iteration 358: 0.000000 
+Latency at iteration 358: 10 cycles 
+value of r1 at iteration 359: 3.600000 
+Latency at iteration 359: 0 cycles 
+value of r1 at iteration 360: 0.000000 
+Latency at iteration 360: 8 cycles 
+value of r1 at iteration 361: 3.620000 
+Latency at iteration 361: 0 cycles 
+value of r1 at iteration 362: 0.000000 
+Latency at iteration 362: 8 cycles 
+value of r1 at iteration 363: 3.640000 
+Latency at iteration 363: 0 cycles 
+value of r1 at iteration 364: 0.000000 
+Latency at iteration 364: 10 cycles 
+value of r1 at iteration 365: 3.660000 
+Latency at iteration 365: 0 cycles 
+value of r1 at iteration 366: 0.000000 
+Latency at iteration 366: 10 cycles 
+value of r1 at iteration 367: 3.680000 
+Latency at iteration 367: 0 cycles 
+value of r1 at iteration 368: 0.000000 
+Latency at iteration 368: 8 cycles 
+value of r1 at iteration 369: 3.700000 
+Latency at iteration 369: 0 cycles 
+value of r1 at iteration 370: 0.000000 
+Latency at iteration 370: 8 cycles 
+value of r1 at iteration 371: 3.720000 
+Latency at iteration 371: 0 cycles 
+value of r1 at iteration 372: 0.000000 
+Latency at iteration 372: 10 cycles 
+value of r1 at iteration 373: 3.740000 
+Latency at iteration 373: 0 cycles 
+value of r1 at iteration 374: 0.000000 
+Latency at iteration 374: 10 cycles 
+value of r1 at iteration 375: 3.760000 
+Latency at iteration 375: 0 cycles 
+value of r1 at iteration 376: 0.000000 
+Latency at iteration 376: 8 cycles 
+value of r1 at iteration 377: 3.780000 
+Latency at iteration 377: 0 cycles 
+value of r1 at iteration 378: 0.000000 
+Latency at iteration 378: 8 cycles 
+value of r1 at iteration 379: 3.800000 
+Latency at iteration 379: 0 cycles 
+value of r1 at iteration 380: 0.000000 
+Latency at iteration 380: 10 cycles 
+value of r1 at iteration 381: 3.820000 
+Latency at iteration 381: 0 cycles 
+value of r1 at iteration 382: 0.000000 
+Latency at iteration 382: 10 cycles 
+value of r1 at iteration 383: 3.840000 
+Latency at iteration 383: 0 cycles 
+value of r1 at iteration 384: 0.000000 
+Latency at iteration 384: 8 cycles 
+value of r1 at iteration 385: 3.860000 
+Latency at iteration 385: 0 cycles 
+value of r1 at iteration 386: 0.000000 
+Latency at iteration 386: 8 cycles 
+value of r1 at iteration 387: 3.880000 
+Latency at iteration 387: 0 cycles 
+value of r1 at iteration 388: 0.000000 
+Latency at iteration 388: 10 cycles 
+value of r1 at iteration 389: 3.900000 
+Latency at iteration 389: 0 cycles 
+value of r1 at iteration 390: 0.000000 
+Latency at iteration 390: 30 cycles 
+value of r1 at iteration 391: 3.920000 
+Latency at iteration 391: 0 cycles 
+value of r1 at iteration 392: 0.000000 
+Latency at iteration 392: 8 cycles 
+value of r1 at iteration 393: 3.940000 
+Latency at iteration 393: 0 cycles 
+value of r1 at iteration 394: 0.000000 
+Latency at iteration 394: 8 cycles 
+value of r1 at iteration 395: 3.960000 
+Latency at iteration 395: 0 cycles 
+value of r1 at iteration 396: 0.000000 
+Latency at iteration 396: 7 cycles 
+value of r1 at iteration 397: 3.980000 
+Latency at iteration 397: 0 cycles 
+value of r1 at iteration 398: 0.000000 
+Latency at iteration 398: 10 cycles 
+value of r1 at iteration 399: 4.000000 
+Latency at iteration 399: 0 cycles 
+value of r1 at iteration 400: 0.000000 
+Latency at iteration 400: 8 cycles 
+value of r1 at iteration 401: 4.020000 
+Latency at iteration 401: 0 cycles 
+value of r1 at iteration 402: 0.000000 
+Latency at iteration 402: 8 cycles 
+value of r1 at iteration 403: 4.040000 
+Latency at iteration 403: 0 cycles 
+value of r1 at iteration 404: 0.000000 
+Latency at iteration 404: 10 cycles 
+value of r1 at iteration 405: 4.060000 
+Latency at iteration 405: 0 cycles 
+value of r1 at iteration 406: 0.000000 
+Latency at iteration 406: 10 cycles 
+value of r1 at iteration 407: 4.080000 
+Latency at iteration 407: 0 cycles 
+value of r1 at iteration 408: 0.000000 
+Latency at iteration 408: 8 cycles 
+value of r1 at iteration 409: 4.100000 
+Latency at iteration 409: 0 cycles 
+value of r1 at iteration 410: 0.000000 
+Latency at iteration 410: 8 cycles 
+value of r1 at iteration 411: 4.120000 
+Latency at iteration 411: 0 cycles 
+value of r1 at iteration 412: 0.000000 
+Latency at iteration 412: 10 cycles 
+value of r1 at iteration 413: 4.140000 
+Latency at iteration 413: 0 cycles 
+value of r1 at iteration 414: 0.000000 
+Latency at iteration 414: 10 cycles 
+value of r1 at iteration 415: 4.160000 
+Latency at iteration 415: 0 cycles 
+value of r1 at iteration 416: 0.000000 
+Latency at iteration 416: 8 cycles 
+value of r1 at iteration 417: 4.180000 
+Latency at iteration 417: 0 cycles 
+value of r1 at iteration 418: 0.000000 
+Latency at iteration 418: 8 cycles 
+value of r1 at iteration 419: 4.200000 
+Latency at iteration 419: 0 cycles 
+value of r1 at iteration 420: 0.000000 
+Latency at iteration 420: 10 cycles 
+value of r1 at iteration 421: 4.220000 
+Latency at iteration 421: 0 cycles 
+value of r1 at iteration 422: 0.000000 
+Latency at iteration 422: 10 cycles 
+value of r1 at iteration 423: 4.240000 
+Latency at iteration 423: 0 cycles 
+value of r1 at iteration 424: 0.000000 
+Latency at iteration 424: 8 cycles 
+value of r1 at iteration 425: 4.260000 
+Latency at iteration 425: 0 cycles 
+value of r1 at iteration 426: 0.000000 
+Latency at iteration 426: 8 cycles 
+value of r1 at iteration 427: 4.280000 
+Latency at iteration 427: 0 cycles 
+value of r1 at iteration 428: 0.000000 
+Latency at iteration 428: 10 cycles 
+value of r1 at iteration 429: 4.300000 
+Latency at iteration 429: 0 cycles 
+value of r1 at iteration 430: 0.000000 
+Latency at iteration 430: 30 cycles 
+value of r1 at iteration 431: 4.320000 
+Latency at iteration 431: 0 cycles 
+value of r1 at iteration 432: 0.000000 
+Latency at iteration 432: 8 cycles 
+value of r1 at iteration 433: 4.340000 
+Latency at iteration 433: 0 cycles 
+value of r1 at iteration 434: 0.000000 
+Latency at iteration 434: 8 cycles 
+value of r1 at iteration 435: 4.360000 
+Latency at iteration 435: 0 cycles 
+value of r1 at iteration 436: 0.000000 
+Latency at iteration 436: 7 cycles 
+value of r1 at iteration 437: 4.380000 
+Latency at iteration 437: 0 cycles 
+value of r1 at iteration 438: 0.000000 
+Latency at iteration 438: 10 cycles 
+value of r1 at iteration 439: 4.400000 
+Latency at iteration 439: 0 cycles 
+value of r1 at iteration 440: 0.000000 
+Latency at iteration 440: 8 cycles 
+value of r1 at iteration 441: 4.420000 
+Latency at iteration 441: 0 cycles 
+value of r1 at iteration 442: 0.000000 
+Latency at iteration 442: 8 cycles 
+value of r1 at iteration 443: 4.440000 
+Latency at iteration 443: 0 cycles 
+value of r1 at iteration 444: 0.000000 
+Latency at iteration 444: 10 cycles 
+value of r1 at iteration 445: 4.460000 
+Latency at iteration 445: 0 cycles 
+value of r1 at iteration 446: 0.000000 
+Latency at iteration 446: 10 cycles 
+value of r1 at iteration 447: 4.480000 
+Latency at iteration 447: 0 cycles 
+value of r1 at iteration 448: 0.000000 
+Latency at iteration 448: 8 cycles 
+value of r1 at iteration 449: 4.500000 
+Latency at iteration 449: 0 cycles 
+value of r1 at iteration 450: 0.000000 
+Latency at iteration 450: 8 cycles 
+value of r1 at iteration 451: 4.520000 
+Latency at iteration 451: 0 cycles 
+value of r1 at iteration 452: 0.000000 
+Latency at iteration 452: 10 cycles 
+value of r1 at iteration 453: 4.540000 
+Latency at iteration 453: 0 cycles 
+value of r1 at iteration 454: 0.000000 
+Latency at iteration 454: 10 cycles 
+value of r1 at iteration 455: 4.560000 
+Latency at iteration 455: 0 cycles 
+value of r1 at iteration 456: 0.000000 
+Latency at iteration 456: 8 cycles 
+value of r1 at iteration 457: 4.580000 
+Latency at iteration 457: 0 cycles 
+value of r1 at iteration 458: 0.000000 
+Latency at iteration 458: 8 cycles 
+value of r1 at iteration 459: 4.600000 
+Latency at iteration 459: 0 cycles 
+value of r1 at iteration 460: 0.000000 
+Latency at iteration 460: 10 cycles 
+value of r1 at iteration 461: 4.620000 
+Latency at iteration 461: 0 cycles 
+value of r1 at iteration 462: 0.000000 
+Latency at iteration 462: 10 cycles 
+value of r1 at iteration 463: 4.640000 
+Latency at iteration 463: 0 cycles 
+value of r1 at iteration 464: 0.000000 
+Latency at iteration 464: 8 cycles 
+value of r1 at iteration 465: 4.660000 
+Latency at iteration 465: 0 cycles 
+value of r1 at iteration 466: 0.000000 
+Latency at iteration 466: 8 cycles 
+value of r1 at iteration 467: 4.680000 
+Latency at iteration 467: 0 cycles 
+value of r1 at iteration 468: 0.000000 
+Latency at iteration 468: 10 cycles 
+value of r1 at iteration 469: 4.700000 
+Latency at iteration 469: 0 cycles 
+value of r1 at iteration 470: 0.000000 
+Latency at iteration 470: 30 cycles 
+value of r1 at iteration 471: 4.720000 
+Latency at iteration 471: 0 cycles 
+value of r1 at iteration 472: 0.000000 
+Latency at iteration 472: 8 cycles 
+value of r1 at iteration 473: 4.740000 
+Latency at iteration 473: 0 cycles 
+value of r1 at iteration 474: 0.000000 
+Latency at iteration 474: 8 cycles 
+value of r1 at iteration 475: 4.760000 
+Latency at iteration 475: 0 cycles 
+value of r1 at iteration 476: 0.000000 
+Latency at iteration 476: 7 cycles 
+value of r1 at iteration 477: 4.780000 
+Latency at iteration 477: 0 cycles 
+value of r1 at iteration 478: 0.000000 
+Latency at iteration 478: 10 cycles 
+value of r1 at iteration 479: 4.800000 
+Latency at iteration 479: 0 cycles 
+value of r1 at iteration 480: 0.000000 
+Latency at iteration 480: 8 cycles 
+value of r1 at iteration 481: 4.820000 
+Latency at iteration 481: 0 cycles 
+value of r1 at iteration 482: 0.000000 
+Latency at iteration 482: 8 cycles 
+value of r1 at iteration 483: 4.840000 
+Latency at iteration 483: 0 cycles 
+value of r1 at iteration 484: 0.000000 
+Latency at iteration 484: 10 cycles 
+value of r1 at iteration 485: 4.860000 
+Latency at iteration 485: 0 cycles 
+value of r1 at iteration 486: 0.000000 
+Latency at iteration 486: 10 cycles 
+value of r1 at iteration 487: 4.880000 
+Latency at iteration 487: 0 cycles 
+value of r1 at iteration 488: 0.000000 
+Latency at iteration 488: 8 cycles 
+value of r1 at iteration 489: 4.900000 
+Latency at iteration 489: 0 cycles 
+value of r1 at iteration 490: 0.000000 
+Latency at iteration 490: 8 cycles 
+value of r1 at iteration 491: 4.920000 
+Latency at iteration 491: 0 cycles 
+value of r1 at iteration 492: 0.000000 
+Latency at iteration 492: 10 cycles 
+value of r1 at iteration 493: 4.940000 
+Latency at iteration 493: 0 cycles 
+value of r1 at iteration 494: 0.000000 
+Latency at iteration 494: 10 cycles 
+value of r1 at iteration 495: 4.960000 
+Latency at iteration 495: 0 cycles 
+value of r1 at iteration 496: 0.000000 
+Latency at iteration 496: 8 cycles 
+value of r1 at iteration 497: 4.980000 
+Latency at iteration 497: 0 cycles 
+value of r1 at iteration 498: 0.000000 
+Latency at iteration 498: 8 cycles 
+value of r1 at iteration 499: 5.000000 
+Latency at iteration 499: 0 cycles 
+value of r1 at iteration 500: 0.000000 
+Latency at iteration 500: 10 cycles 
+value of r1 at iteration 501: 5.020000 
+Latency at iteration 501: 0 cycles 
+value of r1 at iteration 502: 0.000000 
+Latency at iteration 502: 10 cycles 
+value of r1 at iteration 503: 5.040000 
+Latency at iteration 503: 0 cycles 
+value of r1 at iteration 504: 0.000000 
+Latency at iteration 504: 8 cycles 
+value of r1 at iteration 505: 5.060000 
+Latency at iteration 505: 0 cycles 
+value of r1 at iteration 506: 0.000000 
+Latency at iteration 506: 8 cycles 
+value of r1 at iteration 507: 5.080000 
+Latency at iteration 507: 0 cycles 
+value of r1 at iteration 508: 0.000000 
+Latency at iteration 508: 10 cycles 
+value of r1 at iteration 509: 5.100000 
+Latency at iteration 509: 0 cycles 
+value of r1 at iteration 510: 0.000000 
+Latency at iteration 510: 30 cycles 
+value of r1 at iteration 511: 5.120000 
+Latency at iteration 511: 0 cycles 
+value of r1 at iteration 512: 0.000000 
+Latency at iteration 512: 8 cycles 
+value of r1 at iteration 513: 5.140000 
+Latency at iteration 513: 0 cycles 
+value of r1 at iteration 514: 0.000000 
+Latency at iteration 514: 8 cycles 
+value of r1 at iteration 515: 5.160000 
+Latency at iteration 515: 0 cycles 
+value of r1 at iteration 516: 0.000000 
+Latency at iteration 516: 7 cycles 
+value of r1 at iteration 517: 5.180000 
+Latency at iteration 517: 0 cycles 
+value of r1 at iteration 518: 0.000000 
+Latency at iteration 518: 10 cycles 
+value of r1 at iteration 519: 5.200000 
+Latency at iteration 519: 0 cycles 
+value of r1 at iteration 520: 0.000000 
+Latency at iteration 520: 8 cycles 
+value of r1 at iteration 521: 5.220000 
+Latency at iteration 521: 0 cycles 
+value of r1 at iteration 522: 0.000000 
+Latency at iteration 522: 8 cycles 
+value of r1 at iteration 523: 5.240000 
+Latency at iteration 523: 0 cycles 
+value of r1 at iteration 524: 0.000000 
+Latency at iteration 524: 10 cycles 
+value of r1 at iteration 525: 5.260000 
+Latency at iteration 525: 0 cycles 
+value of r1 at iteration 526: 0.000000 
+Latency at iteration 526: 10 cycles 
+value of r1 at iteration 527: 5.280000 
+Latency at iteration 527: 0 cycles 
+value of r1 at iteration 528: 0.000000 
+Latency at iteration 528: 8 cycles 
+value of r1 at iteration 529: 5.300000 
+Latency at iteration 529: 0 cycles 
+value of r1 at iteration 530: 0.000000 
+Latency at iteration 530: 8 cycles 
+value of r1 at iteration 531: 5.320000 
+Latency at iteration 531: 0 cycles 
+value of r1 at iteration 532: 0.000000 
+Latency at iteration 532: 10 cycles 
+value of r1 at iteration 533: 5.340000 
+Latency at iteration 533: 0 cycles 
+value of r1 at iteration 534: 0.000000 
+Latency at iteration 534: 10 cycles 
+value of r1 at iteration 535: 5.360000 
+Latency at iteration 535: 0 cycles 
+value of r1 at iteration 536: 0.000000 
+Latency at iteration 536: 8 cycles 
+value of r1 at iteration 537: 5.380000 
+Latency at iteration 537: 0 cycles 
+value of r1 at iteration 538: 0.000000 
+Latency at iteration 538: 8 cycles 
+value of r1 at iteration 539: 5.400000 
+Latency at iteration 539: 0 cycles 
+value of r1 at iteration 540: 0.000000 
+Latency at iteration 540: 10 cycles 
+value of r1 at iteration 541: 5.420000 
+Latency at iteration 541: 0 cycles 
+value of r1 at iteration 542: 0.000000 
+Latency at iteration 542: 10 cycles 
+value of r1 at iteration 543: 5.440000 
+Latency at iteration 543: 0 cycles 
+value of r1 at iteration 544: 0.000000 
+Latency at iteration 544: 8 cycles 
+value of r1 at iteration 545: 5.460000 
+Latency at iteration 545: 0 cycles 
+value of r1 at iteration 546: 0.000000 
+Latency at iteration 546: 8 cycles 
+value of r1 at iteration 547: 5.480000 
+Latency at iteration 547: 0 cycles 
+value of r1 at iteration 548: 0.000000 
+Latency at iteration 548: 10 cycles 
+value of r1 at iteration 549: 5.500000 
+Latency at iteration 549: 0 cycles 
+value of r1 at iteration 550: 0.000000 
+Latency at iteration 550: 30 cycles 
+value of r1 at iteration 551: 5.520000 
+Latency at iteration 551: 0 cycles 
+value of r1 at iteration 552: 0.000000 
+Latency at iteration 552: 8 cycles 
+value of r1 at iteration 553: 5.540000 
+Latency at iteration 553: 0 cycles 
+value of r1 at iteration 554: 0.000000 
+Latency at iteration 554: 8 cycles 
+value of r1 at iteration 555: 5.560000 
+Latency at iteration 555: 0 cycles 
+value of r1 at iteration 556: 0.000000 
+Latency at iteration 556: 7 cycles 
+value of r1 at iteration 557: 5.580000 
+Latency at iteration 557: 0 cycles 
+value of r1 at iteration 558: 0.000000 
+Latency at iteration 558: 10 cycles 
+value of r1 at iteration 559: 5.600000 
+Latency at iteration 559: 0 cycles 
+value of r1 at iteration 560: 0.000000 
+Latency at iteration 560: 8 cycles 
+value of r1 at iteration 561: 5.620000 
+Latency at iteration 561: 0 cycles 
+value of r1 at iteration 562: 0.000000 
+Latency at iteration 562: 8 cycles 
+value of r1 at iteration 563: 5.640000 
+Latency at iteration 563: 0 cycles 
+value of r1 at iteration 564: 0.000000 
+Latency at iteration 564: 10 cycles 
+value of r1 at iteration 565: 5.660000 
+Latency at iteration 565: 0 cycles 
+value of r1 at iteration 566: 0.000000 
+Latency at iteration 566: 10 cycles 
+value of r1 at iteration 567: 5.680000 
+Latency at iteration 567: 0 cycles 
+value of r1 at iteration 568: 0.000000 
+Latency at iteration 568: 8 cycles 
+value of r1 at iteration 569: 5.700000 
+Latency at iteration 569: 0 cycles 
+value of r1 at iteration 570: 0.000000 
+Latency at iteration 570: 8 cycles 
+value of r1 at iteration 571: 5.720000 
+Latency at iteration 571: 0 cycles 
+value of r1 at iteration 572: 0.000000 
+Latency at iteration 572: 10 cycles 
+value of r1 at iteration 573: 5.740000 
+Latency at iteration 573: 0 cycles 
+value of r1 at iteration 574: 0.000000 
+Latency at iteration 574: 10 cycles 
+value of r1 at iteration 575: 5.760000 
+Latency at iteration 575: 0 cycles 
+value of r1 at iteration 576: 0.000000 
+Latency at iteration 576: 8 cycles 
+value of r1 at iteration 577: 5.780000 
+Latency at iteration 577: 0 cycles 
+value of r1 at iteration 578: 0.000000 
+Latency at iteration 578: 8 cycles 
+value of r1 at iteration 579: 5.800000 
+Latency at iteration 579: 0 cycles 
+value of r1 at iteration 580: 0.000000 
+Latency at iteration 580: 10 cycles 
+value of r1 at iteration 581: 5.820000 
+Latency at iteration 581: 0 cycles 
+value of r1 at iteration 582: 0.000000 
+Latency at iteration 582: 10 cycles 
+value of r1 at iteration 583: 5.840000 
+Latency at iteration 583: 0 cycles 
+value of r1 at iteration 584: 0.000000 
+Latency at iteration 584: 8 cycles 
+value of r1 at iteration 585: 5.860000 
+Latency at iteration 585: 0 cycles 
+value of r1 at iteration 586: 0.000000 
+Latency at iteration 586: 8 cycles 
+value of r1 at iteration 587: 5.880000 
+Latency at iteration 587: 0 cycles 
+value of r1 at iteration 588: 0.000000 
+Latency at iteration 588: 10 cycles 
+value of r1 at iteration 589: 5.900000 
+Latency at iteration 589: 0 cycles 
+value of r1 at iteration 590: 0.000000 
+Latency at iteration 590: 30 cycles 
+value of r1 at iteration 591: 5.920000 
+Latency at iteration 591: 0 cycles 
+value of r1 at iteration 592: 0.000000 
+Latency at iteration 592: 8 cycles 
+value of r1 at iteration 593: 5.940000 
+Latency at iteration 593: 0 cycles 
+value of r1 at iteration 594: 0.000000 
+Latency at iteration 594: 8 cycles 
+value of r1 at iteration 595: 5.960000 
+Latency at iteration 595: 0 cycles 
+value of r1 at iteration 596: 0.000000 
+Latency at iteration 596: 7 cycles 
+value of r1 at iteration 597: 5.980000 
+Latency at iteration 597: 0 cycles 
+value of r1 at iteration 598: 0.000000 
+Latency at iteration 598: 10 cycles 
+value of r1 at iteration 599: 6.000000 
+Latency at iteration 599: 0 cycles 
+value of r1 at iteration 600: 0.000000 
+Latency at iteration 600: 8 cycles 
+value of r1 at iteration 601: 6.020000 
+Latency at iteration 601: 0 cycles 
+value of r1 at iteration 602: 0.000000 
+Latency at iteration 602: 8 cycles 
+value of r1 at iteration 603: 6.040000 
+Latency at iteration 603: 0 cycles 
+value of r1 at iteration 604: 0.000000 
+Latency at iteration 604: 10 cycles 
+value of r1 at iteration 605: 6.060000 
+Latency at iteration 605: 0 cycles 
+value of r1 at iteration 606: 0.000000 
+Latency at iteration 606: 10 cycles 
+value of r1 at iteration 607: 6.080000 
+Latency at iteration 607: 0 cycles 
+value of r1 at iteration 608: 0.000000 
+Latency at iteration 608: 8 cycles 
+value of r1 at iteration 609: 6.100000 
+Latency at iteration 609: 0 cycles 
+value of r1 at iteration 610: 0.000000 
+Latency at iteration 610: 8 cycles 
+value of r1 at iteration 611: 6.120000 
+Latency at iteration 611: 0 cycles 
+value of r1 at iteration 612: 0.000000 
+Latency at iteration 612: 10 cycles 
+value of r1 at iteration 613: 6.140000 
+Latency at iteration 613: 0 cycles 
+value of r1 at iteration 614: 0.000000 
+Latency at iteration 614: 10 cycles 
+value of r1 at iteration 615: 6.160000 
+Latency at iteration 615: 0 cycles 
+value of r1 at iteration 616: 0.000000 
+Latency at iteration 616: 8 cycles 
+value of r1 at iteration 617: 6.180000 
+Latency at iteration 617: 0 cycles 
+value of r1 at iteration 618: 0.000000 
+Latency at iteration 618: 8 cycles 
+value of r1 at iteration 619: 6.200000 
+Latency at iteration 619: 0 cycles 
+value of r1 at iteration 620: 0.000000 
+Latency at iteration 620: 10 cycles 
+value of r1 at iteration 621: 6.220000 
+Latency at iteration 621: 0 cycles 
+value of r1 at iteration 622: 0.000000 
+Latency at iteration 622: 10 cycles 
+value of r1 at iteration 623: 6.240000 
+Latency at iteration 623: 0 cycles 
+value of r1 at iteration 624: 0.000000 
+Latency at iteration 624: 8 cycles 
+value of r1 at iteration 625: 6.260000 
+Latency at iteration 625: 0 cycles 
+value of r1 at iteration 626: 0.000000 
+Latency at iteration 626: 8 cycles 
+value of r1 at iteration 627: 6.280000 
+Latency at iteration 627: 0 cycles 
+value of r1 at iteration 628: 0.000000 
+Latency at iteration 628: 10 cycles 
+value of r1 at iteration 629: 6.300000 
+Latency at iteration 629: 0 cycles 
+value of r1 at iteration 630: 0.000000 
+Latency at iteration 630: 30 cycles 
+value of r1 at iteration 631: 6.320000 
+Latency at iteration 631: 0 cycles 
+value of r1 at iteration 632: 0.000000 
+Latency at iteration 632: 8 cycles 
+value of r1 at iteration 633: 6.340000 
+Latency at iteration 633: 0 cycles 
+value of r1 at iteration 634: 0.000000 
+Latency at iteration 634: 8 cycles 
+value of r1 at iteration 635: 6.360000 
+Latency at iteration 635: 0 cycles 
+value of r1 at iteration 636: 0.000000 
+Latency at iteration 636: 7 cycles 
+value of r1 at iteration 637: 6.380000 
+Latency at iteration 637: 0 cycles 
+value of r1 at iteration 638: 0.000000 
+Latency at iteration 638: 10 cycles 
+value of r1 at iteration 639: 6.400000 
+Latency at iteration 639: 0 cycles 
+value of r1 at iteration 640: 0.000000 
+Latency at iteration 640: 8 cycles 
+value of r1 at iteration 641: 6.420000 
+Latency at iteration 641: 0 cycles 
+value of r1 at iteration 642: 0.000000 
+Latency at iteration 642: 8 cycles 
+value of r1 at iteration 643: 6.440000 
+Latency at iteration 643: 0 cycles 
+value of r1 at iteration 644: 0.000000 
+Latency at iteration 644: 10 cycles 
+value of r1 at iteration 645: 6.460000 
+Latency at iteration 645: 0 cycles 
+value of r1 at iteration 646: 0.000000 
+Latency at iteration 646: 10 cycles 
+value of r1 at iteration 647: 6.480000 
+Latency at iteration 647: 0 cycles 
+value of r1 at iteration 648: 0.000000 
+Latency at iteration 648: 8 cycles 
+value of r1 at iteration 649: 6.500000 
+Latency at iteration 649: 0 cycles 
+value of r1 at iteration 650: 0.000000 
+Latency at iteration 650: 8 cycles 
+value of r1 at iteration 651: 6.520000 
+Latency at iteration 651: 0 cycles 
+value of r1 at iteration 652: 0.000000 
+Latency at iteration 652: 10 cycles 
+value of r1 at iteration 653: 6.540000 
+Latency at iteration 653: 0 cycles 
+value of r1 at iteration 654: 0.000000 
+Latency at iteration 654: 10 cycles 
+value of r1 at iteration 655: 6.560000 
+Latency at iteration 655: 0 cycles 
+value of r1 at iteration 656: 0.000000 
+Latency at iteration 656: 8 cycles 
+value of r1 at iteration 657: 6.580000 
+Latency at iteration 657: 0 cycles 
+value of r1 at iteration 658: 0.000000 
+Latency at iteration 658: 8 cycles 
+value of r1 at iteration 659: 6.600000 
+Latency at iteration 659: 0 cycles 
+value of r1 at iteration 660: 0.000000 
+Latency at iteration 660: 10 cycles 
+value of r1 at iteration 661: 6.620000 
+Latency at iteration 661: 0 cycles 
+value of r1 at iteration 662: 0.000000 
+Latency at iteration 662: 10 cycles 
+value of r1 at iteration 663: 6.640000 
+Latency at iteration 663: 0 cycles 
+value of r1 at iteration 664: 0.000000 
+Latency at iteration 664: 8 cycles 
+value of r1 at iteration 665: 6.660000 
+Latency at iteration 665: 0 cycles 
+value of r1 at iteration 666: 0.000000 
+Latency at iteration 666: 8 cycles 
+value of r1 at iteration 667: 6.680000 
+Latency at iteration 667: 0 cycles 
+value of r1 at iteration 668: 0.000000 
+Latency at iteration 668: 10 cycles 
+value of r1 at iteration 669: 6.700000 
+Latency at iteration 669: 0 cycles 
+value of r1 at iteration 670: 0.000000 
+Latency at iteration 670: 30 cycles 
+value of r1 at iteration 671: 6.720000 
+Latency at iteration 671: 0 cycles 
+value of r1 at iteration 672: 0.000000 
+Latency at iteration 672: 8 cycles 
+value of r1 at iteration 673: 6.740000 
+Latency at iteration 673: 0 cycles 
+value of r1 at iteration 674: 0.000000 
+Latency at iteration 674: 8 cycles 
+value of r1 at iteration 675: 6.760000 
+Latency at iteration 675: 0 cycles 
+value of r1 at iteration 676: 0.000000 
+Latency at iteration 676: 7 cycles 
+value of r1 at iteration 677: 6.780000 
+Latency at iteration 677: 0 cycles 
+value of r1 at iteration 678: 0.000000 
+Latency at iteration 678: 10 cycles 
+value of r1 at iteration 679: 6.800000 
+Latency at iteration 679: 0 cycles 
+value of r1 at iteration 680: 0.000000 
+Latency at iteration 680: 8 cycles 
+value of r1 at iteration 681: 6.820000 
+Latency at iteration 681: 0 cycles 
+value of r1 at iteration 682: 0.000000 
+Latency at iteration 682: 8 cycles 
+value of r1 at iteration 683: 6.840000 
+Latency at iteration 683: 0 cycles 
+value of r1 at iteration 684: 0.000000 
+Latency at iteration 684: 10 cycles 
+value of r1 at iteration 685: 6.860000 
+Latency at iteration 685: 0 cycles 
+value of r1 at iteration 686: 0.000000 
+Latency at iteration 686: 10 cycles 
+value of r1 at iteration 687: 6.880000 
+Latency at iteration 687: 0 cycles 
+value of r1 at iteration 688: 0.000000 
+Latency at iteration 688: 8 cycles 
+value of r1 at iteration 689: 6.900000 
+Latency at iteration 689: 0 cycles 
+value of r1 at iteration 690: 0.000000 
+Latency at iteration 690: 8 cycles 
+value of r1 at iteration 691: 6.920000 
+Latency at iteration 691: 0 cycles 
+value of r1 at iteration 692: 0.000000 
+Latency at iteration 692: 10 cycles 
+value of r1 at iteration 693: 6.940000 
+Latency at iteration 693: 0 cycles 
+value of r1 at iteration 694: 0.000000 
+Latency at iteration 694: 10 cycles 
+value of r1 at iteration 695: 6.960000 
+Latency at iteration 695: 0 cycles 
+value of r1 at iteration 696: 0.000000 
+Latency at iteration 696: 8 cycles 
+value of r1 at iteration 697: 6.980000 
+Latency at iteration 697: 0 cycles 
+value of r1 at iteration 698: 0.000000 
+Latency at iteration 698: 8 cycles 
+value of r1 at iteration 699: 7.000000 
+Latency at iteration 699: 0 cycles 
+value of r1 at iteration 700: 0.000000 
+Latency at iteration 700: 10 cycles 
+value of r1 at iteration 701: 7.020000 
+Latency at iteration 701: 0 cycles 
+value of r1 at iteration 702: 0.000000 
+Latency at iteration 702: 10 cycles 
+value of r1 at iteration 703: 7.040000 
+Latency at iteration 703: 0 cycles 
+value of r1 at iteration 704: 0.000000 
+Latency at iteration 704: 8 cycles 
+value of r1 at iteration 705: 7.060000 
+Latency at iteration 705: 0 cycles 
+value of r1 at iteration 706: 0.000000 
+Latency at iteration 706: 8 cycles 
+value of r1 at iteration 707: 7.080000 
+Latency at iteration 707: 0 cycles 
+value of r1 at iteration 708: 0.000000 
+Latency at iteration 708: 10 cycles 
+value of r1 at iteration 709: 7.100000 
+Latency at iteration 709: 0 cycles 
+value of r1 at iteration 710: 0.000000 
+Latency at iteration 710: 30 cycles 
+value of r1 at iteration 711: 7.120000 
+Latency at iteration 711: 0 cycles 
+value of r1 at iteration 712: 0.000000 
+Latency at iteration 712: 8 cycles 
+value of r1 at iteration 713: 7.140000 
+Latency at iteration 713: 0 cycles 
+value of r1 at iteration 714: 0.000000 
+Latency at iteration 714: 8 cycles 
+value of r1 at iteration 715: 7.160000 
+Latency at iteration 715: 0 cycles 
+value of r1 at iteration 716: 0.000000 
+Latency at iteration 716: 7 cycles 
+value of r1 at iteration 717: 7.180000 
+Latency at iteration 717: 0 cycles 
+value of r1 at iteration 718: 0.000000 
+Latency at iteration 718: 10 cycles 
+value of r1 at iteration 719: 7.200000 
+Latency at iteration 719: 0 cycles 
+value of r1 at iteration 720: 0.000000 
+Latency at iteration 720: 8 cycles 
+value of r1 at iteration 721: 7.220000 
+Latency at iteration 721: 0 cycles 
+value of r1 at iteration 722: 0.000000 
+Latency at iteration 722: 8 cycles 
+value of r1 at iteration 723: 7.240000 
+Latency at iteration 723: 0 cycles 
+value of r1 at iteration 724: 0.000000 
+Latency at iteration 724: 10 cycles 
+value of r1 at iteration 725: 7.260000 
+Latency at iteration 725: 0 cycles 
+value of r1 at iteration 726: 0.000000 
+Latency at iteration 726: 10 cycles 
+value of r1 at iteration 727: 7.280000 
+Latency at iteration 727: 0 cycles 
+value of r1 at iteration 728: 0.000000 
+Latency at iteration 728: 8 cycles 
+value of r1 at iteration 729: 7.300000 
+Latency at iteration 729: 0 cycles 
+value of r1 at iteration 730: 0.000000 
+Latency at iteration 730: 8 cycles 
+value of r1 at iteration 731: 7.320000 
+Latency at iteration 731: 0 cycles 
+value of r1 at iteration 732: 0.000000 
+Latency at iteration 732: 10 cycles 
+value of r1 at iteration 733: 7.340000 
+Latency at iteration 733: 0 cycles 
+value of r1 at iteration 734: 0.000000 
+Latency at iteration 734: 10 cycles 
+value of r1 at iteration 735: 7.360000 
+Latency at iteration 735: 0 cycles 
+value of r1 at iteration 736: 0.000000 
+Latency at iteration 736: 8 cycles 
+value of r1 at iteration 737: 7.380000 
+Latency at iteration 737: 0 cycles 
+value of r1 at iteration 738: 0.000000 
+Latency at iteration 738: 8 cycles 
+value of r1 at iteration 739: 7.400000 
+Latency at iteration 739: 0 cycles 
+value of r1 at iteration 740: 0.000000 
+Latency at iteration 740: 10 cycles 
+value of r1 at iteration 741: 7.420000 
+Latency at iteration 741: 0 cycles 
+value of r1 at iteration 742: 0.000000 
+Latency at iteration 742: 10 cycles 
+value of r1 at iteration 743: 7.440000 
+Latency at iteration 743: 0 cycles 
+value of r1 at iteration 744: 0.000000 
+Latency at iteration 744: 8 cycles 
+value of r1 at iteration 745: 7.460000 
+Latency at iteration 745: 0 cycles 
+value of r1 at iteration 746: 0.000000 
+Latency at iteration 746: 8 cycles 
+value of r1 at iteration 747: 7.480000 
+Latency at iteration 747: 0 cycles 
+value of r1 at iteration 748: 0.000000 
+Latency at iteration 748: 10 cycles 
+value of r1 at iteration 749: 7.500000 
+Latency at iteration 749: 0 cycles 
+value of r1 at iteration 750: 0.000000 
+Latency at iteration 750: 30 cycles 
+value of r1 at iteration 751: 7.520000 
+Latency at iteration 751: 0 cycles 
+value of r1 at iteration 752: 0.000000 
+Latency at iteration 752: 8 cycles 
+value of r1 at iteration 753: 7.540000 
+Latency at iteration 753: 0 cycles 
+value of r1 at iteration 754: 0.000000 
+Latency at iteration 754: 8 cycles 
+value of r1 at iteration 755: 7.560000 
+Latency at iteration 755: 0 cycles 
+value of r1 at iteration 756: 0.000000 
+Latency at iteration 756: 7 cycles 
+value of r1 at iteration 757: 7.580000 
+Latency at iteration 757: 0 cycles 
+value of r1 at iteration 758: 0.000000 
+Latency at iteration 758: 10 cycles 
+value of r1 at iteration 759: 7.600000 
+Latency at iteration 759: 0 cycles 
+value of r1 at iteration 760: 0.000000 
+Latency at iteration 760: 8 cycles 
+value of r1 at iteration 761: 7.620000 
+Latency at iteration 761: 0 cycles 
+value of r1 at iteration 762: 0.000000 
+Latency at iteration 762: 8 cycles 
+value of r1 at iteration 763: 7.640000 
+Latency at iteration 763: 0 cycles 
+value of r1 at iteration 764: 0.000000 
+Latency at iteration 764: 10 cycles 
+value of r1 at iteration 765: 7.660000 
+Latency at iteration 765: 0 cycles 
+value of r1 at iteration 766: 0.000000 
+Latency at iteration 766: 10 cycles 
+value of r1 at iteration 767: 7.680000 
+Latency at iteration 767: 0 cycles 
+value of r1 at iteration 768: 0.000000 
+Latency at iteration 768: 8 cycles 
+value of r1 at iteration 769: 7.700000 
+Latency at iteration 769: 0 cycles 
+value of r1 at iteration 770: 0.000000 
+Latency at iteration 770: 8 cycles 
+value of r1 at iteration 771: 7.720000 
+Latency at iteration 771: 0 cycles 
+value of r1 at iteration 772: 0.000000 
+Latency at iteration 772: 10 cycles 
+value of r1 at iteration 773: 7.740000 
+Latency at iteration 773: 0 cycles 
+value of r1 at iteration 774: 0.000000 
+Latency at iteration 774: 10 cycles 
+value of r1 at iteration 775: 7.760000 
+Latency at iteration 775: 0 cycles 
+value of r1 at iteration 776: 0.000000 
+Latency at iteration 776: 8 cycles 
+value of r1 at iteration 777: 7.780000 
+Latency at iteration 777: 0 cycles 
+value of r1 at iteration 778: 0.000000 
+Latency at iteration 778: 8 cycles 
+value of r1 at iteration 779: 7.800000 
+Latency at iteration 779: 0 cycles 
+value of r1 at iteration 780: 0.000000 
+Latency at iteration 780: 10 cycles 
+value of r1 at iteration 781: 7.820000 
+Latency at iteration 781: 0 cycles 
+value of r1 at iteration 782: 0.000000 
+Latency at iteration 782: 10 cycles 
+value of r1 at iteration 783: 7.840000 
+Latency at iteration 783: 0 cycles 
+value of r1 at iteration 784: 0.000000 
+Latency at iteration 784: 8 cycles 
+value of r1 at iteration 785: 7.860000 
+Latency at iteration 785: 0 cycles 
+value of r1 at iteration 786: 0.000000 
+Latency at iteration 786: 8 cycles 
+value of r1 at iteration 787: 7.880000 
+Latency at iteration 787: 0 cycles 
+value of r1 at iteration 788: 0.000000 
+Latency at iteration 788: 10 cycles 
+value of r1 at iteration 789: 7.900000 
+Latency at iteration 789: 0 cycles 
+value of r1 at iteration 790: 0.000000 
+Latency at iteration 790: 30 cycles 
+value of r1 at iteration 791: 7.920000 
+Latency at iteration 791: 0 cycles 
+value of r1 at iteration 792: 0.000000 
+Latency at iteration 792: 8 cycles 
+value of r1 at iteration 793: 7.940000 
+Latency at iteration 793: 0 cycles 
+value of r1 at iteration 794: 0.000000 
+Latency at iteration 794: 8 cycles 
+value of r1 at iteration 795: 7.960000 
+Latency at iteration 795: 0 cycles 
+value of r1 at iteration 796: 0.000000 
+Latency at iteration 796: 7 cycles 
+value of r1 at iteration 797: 7.980000 
+Latency at iteration 797: 0 cycles 
+value of r1 at iteration 798: 0.000000 
+Latency at iteration 798: 10 cycles 
+value of r1 at iteration 799: 8.000000 
+Latency at iteration 799: 0 cycles 
+value of r1 at iteration 800: 0.000000 
+Latency at iteration 800: 8 cycles 
+value of r1 at iteration 801: 8.020000 
+Latency at iteration 801: 0 cycles 
+value of r1 at iteration 802: 0.000000 
+Latency at iteration 802: 8 cycles 
+value of r1 at iteration 803: 8.040000 
+Latency at iteration 803: 0 cycles 
+value of r1 at iteration 804: 0.000000 
+Latency at iteration 804: 10 cycles 
+value of r1 at iteration 805: 8.060000 
+Latency at iteration 805: 0 cycles 
+value of r1 at iteration 806: 0.000000 
+Latency at iteration 806: 10 cycles 
+value of r1 at iteration 807: 8.080000 
+Latency at iteration 807: 0 cycles 
+value of r1 at iteration 808: 0.000000 
+Latency at iteration 808: 8 cycles 
+value of r1 at iteration 809: 8.100000 
+Latency at iteration 809: 0 cycles 
+value of r1 at iteration 810: 0.000000 
+Latency at iteration 810: 8 cycles 
+value of r1 at iteration 811: 8.120000 
+Latency at iteration 811: 0 cycles 
+value of r1 at iteration 812: 0.000000 
+Latency at iteration 812: 10 cycles 
+value of r1 at iteration 813: 8.140000 
+Latency at iteration 813: 0 cycles 
+value of r1 at iteration 814: 0.000000 
+Latency at iteration 814: 10 cycles 
+value of r1 at iteration 815: 8.160000 
+Latency at iteration 815: 0 cycles 
+value of r1 at iteration 816: 0.000000 
+Latency at iteration 816: 8 cycles 
+value of r1 at iteration 817: 8.180000 
+Latency at iteration 817: 0 cycles 
+value of r1 at iteration 818: 0.000000 
+Latency at iteration 818: 8 cycles 
+value of r1 at iteration 819: 8.200000 
+Latency at iteration 819: 0 cycles 
+value of r1 at iteration 820: 0.000000 
+Latency at iteration 820: 10 cycles 
+value of r1 at iteration 821: 8.220000 
+Latency at iteration 821: 0 cycles 
+value of r1 at iteration 822: 0.000000 
+Latency at iteration 822: 10 cycles 
+value of r1 at iteration 823: 8.240000 
+Latency at iteration 823: 0 cycles 
+value of r1 at iteration 824: 0.000000 
+Latency at iteration 824: 8 cycles 
+value of r1 at iteration 825: 8.260000 
+Latency at iteration 825: 0 cycles 
+value of r1 at iteration 826: 0.000000 
+Latency at iteration 826: 8 cycles 
+value of r1 at iteration 827: 8.280000 
+Latency at iteration 827: 0 cycles 
+value of r1 at iteration 828: 0.000000 
+Latency at iteration 828: 10 cycles 
+value of r1 at iteration 829: 8.300000 
+Latency at iteration 829: 0 cycles 
+value of r1 at iteration 830: 0.000000 
+Latency at iteration 830: 30 cycles 
+value of r1 at iteration 831: 8.320000 
+Latency at iteration 831: 0 cycles 
+value of r1 at iteration 832: 0.000000 
+Latency at iteration 832: 8 cycles 
+value of r1 at iteration 833: 8.340000 
+Latency at iteration 833: 0 cycles 
+value of r1 at iteration 834: 0.000000 
+Latency at iteration 834: 8 cycles 
+value of r1 at iteration 835: 8.360000 
+Latency at iteration 835: 0 cycles 
+value of r1 at iteration 836: 0.000000 
+Latency at iteration 836: 7 cycles 
+value of r1 at iteration 837: 8.380000 
+Latency at iteration 837: 0 cycles 
+value of r1 at iteration 838: 0.000000 
+Latency at iteration 838: 10 cycles 
+value of r1 at iteration 839: 8.400000 
+Latency at iteration 839: 0 cycles 
+value of r1 at iteration 840: 0.000000 
+Latency at iteration 840: 8 cycles 
+value of r1 at iteration 841: 8.420000 
+Latency at iteration 841: 0 cycles 
+value of r1 at iteration 842: 0.000000 
+Latency at iteration 842: 8 cycles 
+value of r1 at iteration 843: 8.440000 
+Latency at iteration 843: 0 cycles 
+value of r1 at iteration 844: 0.000000 
+Latency at iteration 844: 10 cycles 
+value of r1 at iteration 845: 8.460000 
+Latency at iteration 845: 0 cycles 
+value of r1 at iteration 846: 0.000000 
+Latency at iteration 846: 10 cycles 
+value of r1 at iteration 847: 8.480000 
+Latency at iteration 847: 0 cycles 
+value of r1 at iteration 848: 0.000000 
+Latency at iteration 848: 8 cycles 
+value of r1 at iteration 849: 8.500000 
+Latency at iteration 849: 0 cycles 
+value of r1 at iteration 850: 0.000000 
+Latency at iteration 850: 8 cycles 
+value of r1 at iteration 851: 8.520000 
+Latency at iteration 851: 0 cycles 
+value of r1 at iteration 852: 0.000000 
+Latency at iteration 852: 10 cycles 
+value of r1 at iteration 853: 8.540000 
+Latency at iteration 853: 0 cycles 
+value of r1 at iteration 854: 0.000000 
+Latency at iteration 854: 10 cycles 
+value of r1 at iteration 855: 8.560000 
+Latency at iteration 855: 0 cycles 
+value of r1 at iteration 856: 0.000000 
+Latency at iteration 856: 8 cycles 
+value of r1 at iteration 857: 8.580000 
+Latency at iteration 857: 0 cycles 
+value of r1 at iteration 858: 0.000000 
+Latency at iteration 858: 8 cycles 
+value of r1 at iteration 859: 8.600000 
+Latency at iteration 859: 0 cycles 
+value of r1 at iteration 860: 0.000000 
+Latency at iteration 860: 10 cycles 
+value of r1 at iteration 861: 8.620000 
+Latency at iteration 861: 0 cycles 
+value of r1 at iteration 862: 0.000000 
+Latency at iteration 862: 10 cycles 
+value of r1 at iteration 863: 8.640000 
+Latency at iteration 863: 0 cycles 
+value of r1 at iteration 864: 0.000000 
+Latency at iteration 864: 8 cycles 
+value of r1 at iteration 865: 8.660000 
+Latency at iteration 865: 0 cycles 
+value of r1 at iteration 866: 0.000000 
+Latency at iteration 866: 8 cycles 
+value of r1 at iteration 867: 8.680000 
+Latency at iteration 867: 0 cycles 
+value of r1 at iteration 868: 0.000000 
+Latency at iteration 868: 10 cycles 
+value of r1 at iteration 869: 8.700000 
+Latency at iteration 869: 0 cycles 
+value of r1 at iteration 870: 0.000000 
+Latency at iteration 870: 30 cycles 
+value of r1 at iteration 871: 8.720000 
+Latency at iteration 871: 0 cycles 
+value of r1 at iteration 872: 0.000000 
+Latency at iteration 872: 8 cycles 
+value of r1 at iteration 873: 8.740000 
+Latency at iteration 873: 0 cycles 
+value of r1 at iteration 874: 0.000000 
+Latency at iteration 874: 8 cycles 
+value of r1 at iteration 875: 8.760000 
+Latency at iteration 875: 0 cycles 
+value of r1 at iteration 876: 0.000000 
+Latency at iteration 876: 7 cycles 
+value of r1 at iteration 877: 8.780000 
+Latency at iteration 877: 0 cycles 
+value of r1 at iteration 878: 0.000000 
+Latency at iteration 878: 10 cycles 
+value of r1 at iteration 879: 8.800000 
+Latency at iteration 879: 0 cycles 
+value of r1 at iteration 880: 0.000000 
+Latency at iteration 880: 8 cycles 
+value of r1 at iteration 881: 8.820000 
+Latency at iteration 881: 0 cycles 
+value of r1 at iteration 882: 0.000000 
+Latency at iteration 882: 8 cycles 
+value of r1 at iteration 883: 8.840000 
+Latency at iteration 883: 0 cycles 
+value of r1 at iteration 884: 0.000000 
+Latency at iteration 884: 10 cycles 
+value of r1 at iteration 885: 8.860000 
+Latency at iteration 885: 0 cycles 
+value of r1 at iteration 886: 0.000000 
+Latency at iteration 886: 10 cycles 
+value of r1 at iteration 887: 8.880000 
+Latency at iteration 887: 0 cycles 
+value of r1 at iteration 888: 0.000000 
+Latency at iteration 888: 8 cycles 
+value of r1 at iteration 889: 8.900000 
+Latency at iteration 889: 0 cycles 
+value of r1 at iteration 890: 0.000000 
+Latency at iteration 890: 8 cycles 
+value of r1 at iteration 891: 8.920000 
+Latency at iteration 891: 0 cycles 
+value of r1 at iteration 892: 0.000000 
+Latency at iteration 892: 10 cycles 
+value of r1 at iteration 893: 8.940000 
+Latency at iteration 893: 0 cycles 
+value of r1 at iteration 894: 0.000000 
+Latency at iteration 894: 10 cycles 
+value of r1 at iteration 895: 8.960000 
+Latency at iteration 895: 0 cycles 
+value of r1 at iteration 896: 0.000000 
+Latency at iteration 896: 8 cycles 
+value of r1 at iteration 897: 8.980000 
+Latency at iteration 897: 0 cycles 
+value of r1 at iteration 898: 0.000000 
+Latency at iteration 898: 8 cycles 
+value of r1 at iteration 899: 9.000000 
+Latency at iteration 899: 0 cycles 
+value of r1 at iteration 900: 0.000000 
+Latency at iteration 900: 10 cycles 
+value of r1 at iteration 901: 9.020000 
+Latency at iteration 901: 0 cycles 
+value of r1 at iteration 902: 0.000000 
+Latency at iteration 902: 10 cycles 
+value of r1 at iteration 903: 9.040000 
+Latency at iteration 903: 0 cycles 
+value of r1 at iteration 904: 0.000000 
+Latency at iteration 904: 8 cycles 
+value of r1 at iteration 905: 9.060000 
+Latency at iteration 905: 0 cycles 
+value of r1 at iteration 906: 0.000000 
+Latency at iteration 906: 8 cycles 
+value of r1 at iteration 907: 9.080000 
+Latency at iteration 907: 0 cycles 
+value of r1 at iteration 908: 0.000000 
+Latency at iteration 908: 10 cycles 
+value of r1 at iteration 909: 9.100000 
+Latency at iteration 909: 0 cycles 
+value of r1 at iteration 910: 0.000000 
+Latency at iteration 910: 30 cycles 
+value of r1 at iteration 911: 9.120000 
+Latency at iteration 911: 0 cycles 
+value of r1 at iteration 912: 0.000000 
+Latency at iteration 912: 8 cycles 
+value of r1 at iteration 913: 9.140000 
+Latency at iteration 913: 0 cycles 
+value of r1 at iteration 914: 0.000000 
+Latency at iteration 914: 8 cycles 
+value of r1 at iteration 915: 9.160000 
+Latency at iteration 915: 0 cycles 
+value of r1 at iteration 916: 0.000000 
+Latency at iteration 916: 7 cycles 
+value of r1 at iteration 917: 9.180000 
+Latency at iteration 917: 0 cycles 
+value of r1 at iteration 918: 0.000000 
+Latency at iteration 918: 10 cycles 
+value of r1 at iteration 919: 9.200000 
+Latency at iteration 919: 0 cycles 
+value of r1 at iteration 920: 0.000000 
+Latency at iteration 920: 8 cycles 
+value of r1 at iteration 921: 9.220000 
+Latency at iteration 921: 0 cycles 
+value of r1 at iteration 922: 0.000000 
+Latency at iteration 922: 8 cycles 
+value of r1 at iteration 923: 9.240000 
+Latency at iteration 923: 0 cycles 
+value of r1 at iteration 924: 0.000000 
+Latency at iteration 924: 10 cycles 
+value of r1 at iteration 925: 9.260000 
+Latency at iteration 925: 0 cycles 
+value of r1 at iteration 926: 0.000000 
+Latency at iteration 926: 10 cycles 
+value of r1 at iteration 927: 9.280000 
+Latency at iteration 927: 0 cycles 
+value of r1 at iteration 928: 0.000000 
+Latency at iteration 928: 8 cycles 
+value of r1 at iteration 929: 9.300000 
+Latency at iteration 929: 0 cycles 
+value of r1 at iteration 930: 0.000000 
+Latency at iteration 930: 8 cycles 
+value of r1 at iteration 931: 9.320000 
+Latency at iteration 931: 0 cycles 
+value of r1 at iteration 932: 0.000000 
+Latency at iteration 932: 10 cycles 
+value of r1 at iteration 933: 9.340000 
+Latency at iteration 933: 0 cycles 
+value of r1 at iteration 934: 0.000000 
+Latency at iteration 934: 10 cycles 
+value of r1 at iteration 935: 9.360000 
+Latency at iteration 935: 0 cycles 
+value of r1 at iteration 936: 0.000000 
+Latency at iteration 936: 8 cycles 
+value of r1 at iteration 937: 9.380000 
+Latency at iteration 937: 0 cycles 
+value of r1 at iteration 938: 0.000000 
+Latency at iteration 938: 8 cycles 
+value of r1 at iteration 939: 9.400000 
+Latency at iteration 939: 0 cycles 
+value of r1 at iteration 940: 0.000000 
+Latency at iteration 940: 10 cycles 
+value of r1 at iteration 941: 9.420000 
+Latency at iteration 941: 0 cycles 
+value of r1 at iteration 942: 0.000000 
+Latency at iteration 942: 10 cycles 
+value of r1 at iteration 943: 9.440000 
+Latency at iteration 943: 0 cycles 
+value of r1 at iteration 944: 0.000000 
+Latency at iteration 944: 8 cycles 
+value of r1 at iteration 945: 9.460000 
+Latency at iteration 945: 0 cycles 
+value of r1 at iteration 946: 0.000000 
+Latency at iteration 946: 8 cycles 
+value of r1 at iteration 947: 9.480000 
+Latency at iteration 947: 0 cycles 
+value of r1 at iteration 948: 0.000000 
+Latency at iteration 948: 10 cycles 
+value of r1 at iteration 949: 9.500000 
+Latency at iteration 949: 0 cycles 
+value of r1 at iteration 950: 0.000000 
+Latency at iteration 950: 30 cycles 
+value of r1 at iteration 951: 9.520000 
+Latency at iteration 951: 0 cycles 
+value of r1 at iteration 952: 0.000000 
+Latency at iteration 952: 8 cycles 
+value of r1 at iteration 953: 9.540000 
+Latency at iteration 953: 0 cycles 
+value of r1 at iteration 954: 0.000000 
+Latency at iteration 954: 8 cycles 
+value of r1 at iteration 955: 9.560000 
+Latency at iteration 955: 0 cycles 
+value of r1 at iteration 956: 0.000000 
+Latency at iteration 956: 7 cycles 
+value of r1 at iteration 957: 9.580000 
+Latency at iteration 957: 0 cycles 
+value of r1 at iteration 958: 0.000000 
+Latency at iteration 958: 10 cycles 
+value of r1 at iteration 959: 9.600000 
+Latency at iteration 959: 0 cycles 
+value of r1 at iteration 960: 0.000000 
+Latency at iteration 960: 8 cycles 
+value of r1 at iteration 961: 9.620000 
+Latency at iteration 961: 0 cycles 
+value of r1 at iteration 962: 0.000000 
+Latency at iteration 962: 8 cycles 
+value of r1 at iteration 963: 9.640000 
+Latency at iteration 963: 0 cycles 
+value of r1 at iteration 964: 0.000000 
+Latency at iteration 964: 10 cycles 
+value of r1 at iteration 965: 9.660000 
+Latency at iteration 965: 0 cycles 
+value of r1 at iteration 966: 0.000000 
+Latency at iteration 966: 10 cycles 
+value of r1 at iteration 967: 9.680000 
+Latency at iteration 967: 0 cycles 
+value of r1 at iteration 968: 0.000000 
+Latency at iteration 968: 8 cycles 
+value of r1 at iteration 969: 9.700000 
+Latency at iteration 969: 0 cycles 
+value of r1 at iteration 970: 0.000000 
+Latency at iteration 970: 8 cycles 
+value of r1 at iteration 971: 9.720000 
+Latency at iteration 971: 0 cycles 
+value of r1 at iteration 972: 0.000000 
+Latency at iteration 972: 10 cycles 
+value of r1 at iteration 973: 9.740000 
+Latency at iteration 973: 0 cycles 
+value of r1 at iteration 974: 0.000000 
+Latency at iteration 974: 10 cycles 
+value of r1 at iteration 975: 9.760000 
+Latency at iteration 975: 0 cycles 
+value of r1 at iteration 976: 0.000000 
+Latency at iteration 976: 8 cycles 
+value of r1 at iteration 977: 9.780000 
+Latency at iteration 977: 0 cycles 
+value of r1 at iteration 978: 0.000000 
+Latency at iteration 978: 8 cycles 
+value of r1 at iteration 979: 9.800000 
+Latency at iteration 979: 0 cycles 
+value of r1 at iteration 980: 0.000000 
+Latency at iteration 980: 10 cycles 
+value of r1 at iteration 981: 9.820000 
+Latency at iteration 981: 0 cycles 
+value of r1 at iteration 982: 0.000000 
+Latency at iteration 982: 10 cycles 
+value of r1 at iteration 983: 9.840000 
+Latency at iteration 983: 0 cycles 
+value of r1 at iteration 984: 0.000000 
+Latency at iteration 984: 8 cycles 
+value of r1 at iteration 985: 9.860000 
+Latency at iteration 985: 0 cycles 
+value of r1 at iteration 986: 0.000000 
+Latency at iteration 986: 8 cycles 
+value of r1 at iteration 987: 9.880000 
+Latency at iteration 987: 0 cycles 
+value of r1 at iteration 988: 0.000000 
+Latency at iteration 988: 10 cycles 
+value of r1 at iteration 989: 9.900000 
+Latency at iteration 989: 0 cycles 
+value of r1 at iteration 990: 0.000000 
+Latency at iteration 990: 30 cycles 
+value of r1 at iteration 991: 9.920000 
+Latency at iteration 991: 0 cycles 
+value of r1 at iteration 992: 0.000000 
+Latency at iteration 992: 8 cycles 
+value of r1 at iteration 993: 9.940000 
+Latency at iteration 993: 0 cycles 
+value of r1 at iteration 994: 0.000000 
+Latency at iteration 994: 8 cycles 
+value of r1 at iteration 995: 9.960000 
+Latency at iteration 995: 0 cycles 
+value of r1 at iteration 996: 0.000000 
+Latency at iteration 996: 7 cycles 
+value of r1 at iteration 997: 9.980000 
+Latency at iteration 997: 0 cycles 
+value of r1 at iteration 998: 0.000000 
+Latency at iteration 998: 10 cycles 
+value of r1 at iteration 999: 10.000000 
+Latency at iteration 999: 0 cycles 
+average latency 4.925000 
