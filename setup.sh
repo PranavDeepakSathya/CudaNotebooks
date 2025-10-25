@@ -42,9 +42,9 @@ if [ $? -ne 0 ]; then
 fi
 
 # --- 4. Install the required packages ---
-echo "Installing packages: torch, nvcc4jupyter, numpy..."
+echo "Installing packages: nvcc4jupyter, numpy..."
 
-pip install torch nvcc4jupyter numpy
+pip install nvcc4jupyter numpy
 pip install jupyter_client ipykernel
 
 if [ $? -ne 0 ]; then
