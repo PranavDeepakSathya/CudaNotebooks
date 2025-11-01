@@ -49,6 +49,7 @@ pip install jupyter_client ipykernel
 pip install nvidia-cutlass-dsl
 pip install ipywidgets
 pip install bokeh
+pip install sympy
 
 
 if [ $? -ne 0 ]; then
