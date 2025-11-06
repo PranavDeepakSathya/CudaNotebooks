@@ -5,7 +5,7 @@
 #include<cuda.h> 
 #include<cuda_runtime.h>
 
-constexpr int N = 4; 
+constexpr int N = 8; 
 constexpr int reps = 1;
 
 
