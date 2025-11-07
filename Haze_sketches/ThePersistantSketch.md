@@ -23,6 +23,44 @@ t0 t1 t2 t3  c_ariv  b_phase
 4  2  4  4		0		1  -- new barrier phase 
 
 
--- we will continue this later --- 
+for a thread t, t moves from stage 0 to state 1 when t calls token(t) <- bar.arrive(t). 
+and then immediately moves to stage 2, (post arrive) (a thread is unblocked when it calls arrive, however the count 
+of the barrier decrememnts) Next, to move to the wait stage, a thread calls block(t) <- bar.wait(token(t))
 
-Category theory. 			
+
+One must call bar.arrive only when the barriers counter is non zero. 
+
+If the call of bar.arrive finally makes the counter zero, then the bar.wait must be called beffore using the barrier 
+again for arrival. 
+
+let the phase of the barrier be $p$, bar.wait(token(t)) where token holds the current phase, only makes sense 
+if token(t) = p or p - 1. nothing else. 
+
+Producer-consumer. 
+
+Imagine I have an assembly line: 
+
+p0===========|b0 |======c0
+p1===========|b1 |======c1
+
+where the left half is the producer (with say two lines ) and the right half is the consumer (again two lines)
+
+the consumer c can itself consume from at most one line, and the producer p itself can atmost produce to one line 
+
+initially both b0, b1 are empty. 
+
+The producer and consumer are very strict people, and act in a very safe manner. 
+
+at initalization, the p says. Hey I don't know if these buffers are empty to c. and then 
+1. p waits for c to say a buffer is empty
+2. c says hey, b0 is empty
+3. c waits for p to fill b0
+4. p decides to fill b0
+5. p0 fills b0 
+6. p says to c, b0 is filled and waits for the next instruction
+7. c says to p, b1 is not filled
+8. p1 starts filling b1, meanwhile c0 starts working on b0 
+9. p1 finishes filling b1 and signals to c that b1 is full and then waits 
+10. c0 finishes working on b0 and then immediately signals that b0 is empty 
+11. p0 starts filling b0 meanwhile c1 works on b1. 
+
