@@ -1,0 +1,5 @@
+setup.py
+PyLayouts.egg-info/PKG-INFO
+PyLayouts.egg-info/SOURCES.txt
+PyLayouts.egg-info/dependency_links.txt
+PyLayouts.egg-info/top_level.txt
