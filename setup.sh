@@ -74,4 +74,6 @@ fi
 git config --global user.email sathya.pranav.deepak@gmail.com
 git config --global user.name PranavDeepakSathya
 
+git clone https://github.com/NVIDIA/cutlass.git /workspace/cutlass
+echo 'export CPLUS_INCLUDE_PATH=/workspace/cutlass/include:$CPLUS_INCLUDE_PATH' >> ~/.bashrc
 echo "Setup finished. Run 'source ../.venv/bin/activate' (Linux/macOS) or '../.venv/Scripts/activate' (Windows) and then launch Jupyter."
