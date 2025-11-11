@@ -46,10 +46,10 @@ echo "Installing packages: nvcc4jupyter, numpy..."
 
 pip install nvcc4jupyter numpy
 pip install jupyter_client ipykernel
-pip install nvidia-cutlass-dsl
 pip install ipywidgets
 pip install bokeh
 pip install sympy
+pip install matplotlib
 
 
 if [ $? -ne 0 ]; then
