@@ -32,3 +32,13 @@ PFN_cuTensorMapEncodeTiled_v12000 get_cuTensorMapEncodeTiled() {
     CUDA_CHECK(cudaGetDriverEntryPointByVersion("cuTensorMapEncodeTiled", &ptr, 12000, cudaEnableDefault, &driver_status));
     return reinterpret_cast<PFN_cuTensorMapEncodeTiled_v12000>(ptr);
 }
+
+// --- constants --- 
+
+constexpr int byte_aligner = 128; 
+constexpr uint32_t M = 32; 
+constexpr uint32_t N = 32; 
+constexpr uint32_t BM = 8; 
+constexpr uint32_t BN = 8;
+constexpr uint32_t GM = M/BM; 
+constexpr uint32_t GN = N/BN;
