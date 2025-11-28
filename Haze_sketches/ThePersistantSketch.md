@@ -64,3 +64,6 @@ at initalization, the p says. Hey I don't know if these buffers are empty to c. 
 10. c0 finishes working on b0 and then immediately signals that b0 is empty 
 11. p0 starts filling b0 meanwhile c1 works on b1. 
 
+Monoidal Preorder (P, =<, e, o) where P, =< is a pre order relation (reflexive and transitive on P)
+and (P,e,o) is a monoid, for which when the diagonal order (p,p') =< (q,q') iff p =< p' and q =< q' 
+on PxP, induces o : PxP --> P to be a monotone map. ie p =< p' and q =< q' implies p o q <= p' o q'
